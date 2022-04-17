@@ -1,0 +1,1203 @@
+{
+    "periipherie": [
+        {
+            "id": "881520",
+            "name": "Dell Premier KM7321W Multi-Device Tastatur + Maus, kabellos, 2.4 GHz / BT 5.0, QWERTZ, grau",
+            "image_single_big": "https://img.computerunivers.net/images/1000/908330437EA03000702B4ED0A20475F2.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/908330437EA03000702B4ED0A20475F2.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/908330437EA03000702B4ED0A20475F2.jpg",
+                "https://img.computerunivers.net/images/1000/90833043E16E3A955323484F9D49EBB1.jpg",
+                "https://img.computerunivers.net/images/1000/90833043AF1ABC90807F44B582FD26A2.jpg",
+                "https://img.computerunivers.net/images/1000/90833043A1BE8EF959B742AEAF515BE6.jpg",
+                "https://img.computerunivers.net/images/1000/90833043801FDC9A011941F489B0FDD7.jpg",
+                "https://img.computerunivers.net/images/1000/908330438FFA390AFC3040AA9DEB528F.jpg",
+                "https://img.computerunivers.net/images/1000/908330430DE32FDFB47F4AC0B2D94982.jpg",
+                "https://img.computerunivers.net/images/1000/908330437CE1B80F6766482BA37447CE.jpg",
+                "https://img.computerunivers.net/images/1000/90833043BE314A88B9FC4A28A4EA9E1E.jpg",
+                "https://img.computerunivers.net/images/1000/9083304388172FC5A0BC428ABB99E35E.jpg",
+                "https://img.computerunivers.net/images/1000/9083304376003C94BAEF4883A45D1851.jpg",
+                "https://img.computerunivers.net/images/1000/90833043D185231855624FF9B45CEF74.jpg",
+                "https://img.computerunivers.net/images/1000/90833043DF87B152C1FC4150A37F464D.jpg",
+                "https://img.computerunivers.net/images/1000/90833043D211ACD461574D568BC1A50D.jpg",
+                "https://img.computerunivers.net/images/1000/90833043969C167B9AE14630BB7C3D0F.jpg",
+                "https://img.computerunivers.net/images/1000/908330433FE5C95F7697458392D0F46D.jpg",
+                "https://img.computerunivers.net/images/1000/90833043B4E7751DB8C64BBD8502E7C1.jpg",
+                "https://img.computerunivers.net/images/1000/90833043966C21608A1448529114D932.jpg",
+                "https://img.computerunivers.net/images/1000/9083304398AC8F7BF2B647BF90E529A5.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/908330437EA03000702B4ED0A20475F2.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043E16E3A955323484F9D49EBB1.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043AF1ABC90807F44B582FD26A2.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043A1BE8EF959B742AEAF515BE6.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043801FDC9A011941F489B0FDD7.jpg",
+                "https://img.computerunivers.net/images/400x400/908330438FFA390AFC3040AA9DEB528F.jpg",
+                "https://img.computerunivers.net/images/400x400/908330430DE32FDFB47F4AC0B2D94982.jpg",
+                "https://img.computerunivers.net/images/400x400/908330437CE1B80F6766482BA37447CE.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043BE314A88B9FC4A28A4EA9E1E.jpg",
+                "https://img.computerunivers.net/images/400x400/9083304388172FC5A0BC428ABB99E35E.jpg",
+                "https://img.computerunivers.net/images/400x400/9083304376003C94BAEF4883A45D1851.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043D185231855624FF9B45CEF74.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043DF87B152C1FC4150A37F464D.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043D211ACD461574D568BC1A50D.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043969C167B9AE14630BB7C3D0F.jpg",
+                "https://img.computerunivers.net/images/400x400/908330433FE5C95F7697458392D0F46D.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043B4E7751DB8C64BBD8502E7C1.jpg",
+                "https://img.computerunivers.net/images/400x400/90833043966C21608A1448529114D932.jpg",
+                "https://img.computerunivers.net/images/400x400/9083304398AC8F7BF2B647BF90E529A5.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["gray"],
+                    "valuesDisplayOrder": [9]
+                },
+                "FlacheTasten": {
+                    "displayName": "Slim Keycaps",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabellos", "2.4 GHz Funk", "Bluetooth"],
+                    "valuesDisplayOrder": [0, 1, 2]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Multimedia", "Office"],
+                    "valuesDisplayOrder": [2, 3]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["Ja", "Laser / kabellos"],
+                    "valuesDisplayOrder": [0, 2]
+                }
+            },
+            "manufacturer": "Dell",
+            "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
+            "price": 64,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 12:45:18",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Multimedia, Office, </span> <span style=\"white-space:nowrap;\">Connection via 2.4 GHz Funk, Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">Slim Keycaps</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li><li><span style=\"white-space:nowrap;\">Mouse included (Laser / kabellos)</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "855441",
+            "name": "CHERRY GENTIX DESKTOP Wireless Desktop Set DE-Layout, schwarz",
+            "image_single_big": "https://img.computerunivers.net/images/1000/9081640173CB7683A2224A9D9B6B30B3.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/9081640173CB7683A2224A9D9B6B30B3.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/9081640173CB7683A2224A9D9B6B30B3.jpg",
+                "https://img.computerunivers.net/images/1000/90816401D1AD5DA1822C42E08E8209E9.jpg",
+                "https://img.computerunivers.net/images/1000/90816401D19D5DE192364810B80E5D5D.jpg",
+                "https://img.computerunivers.net/images/1000/90816401F2701EB38F104CCC91EE22AB.jpg",
+                "https://img.computerunivers.net/images/1000/908164010039FB9739A54997A9AFB70A.jpg",
+                "https://img.computerunivers.net/images/1000/90816401730499ABF1C644D1BB7AF9CA.jpg",
+                "https://img.computerunivers.net/images/1000/90816401DD1ED595B21247A69CFBDDF8.jpg",
+                "https://img.computerunivers.net/images/1000/9081640133FAA0F01DC7446799C10B10.jpg",
+                "https://img.computerunivers.net/images/1000/90816401DBF21438472E4E36B79B448D.jpg",
+                "https://img.computerunivers.net/images/1000/90816401F70159C366794370B8799440.jpg",
+                "https://img.computerunivers.net/images/1000/90816401A49CCB683AE54E6B8442368D.jpg",
+                "https://img.computerunivers.net/images/1000/9081640146BD404B8C924275B7C8AE82.jpg",
+                "https://img.computerunivers.net/images/1000/90816401C911D87CC432456E830F0CA7.jpg",
+                "https://img.computerunivers.net/images/1000/90816401F819DC833B58454EB0EC585C.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/9081640173CB7683A2224A9D9B6B30B3.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401D1AD5DA1822C42E08E8209E9.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401D19D5DE192364810B80E5D5D.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401F2701EB38F104CCC91EE22AB.jpg",
+                "https://img.computerunivers.net/images/400x400/908164010039FB9739A54997A9AFB70A.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401730499ABF1C644D1BB7AF9CA.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401DD1ED595B21247A69CFBDDF8.jpg",
+                "https://img.computerunivers.net/images/400x400/9081640133FAA0F01DC7446799C10B10.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401DBF21438472E4E36B79B448D.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401F70159C366794370B8799440.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401A49CCB683AE54E6B8442368D.jpg",
+                "https://img.computerunivers.net/images/400x400/9081640146BD404B8C924275B7C8AE82.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401C911D87CC432456E830F0CA7.jpg",
+                "https://img.computerunivers.net/images/400x400/90816401F819DC833B58454EB0EC585C.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabellos", "2.4 GHz Funk"],
+                    "valuesDisplayOrder": [0, 1]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["Ja", "Fest"],
+                    "valuesDisplayOrder": [0, 3]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Office"],
+                    "valuesDisplayOrder": [3]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["Ja", "Optisch / Kabellos"],
+                    "valuesDisplayOrder": [0, 4]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 27,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 15:00:39",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Office, </span> <span style=\"white-space:nowrap;\">Connection via 2.4 GHz Funk</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li><li><span style=\"white-space:nowrap;\">Fest wrist rest</span> </li><li><span style=\"white-space:nowrap;\">Mouse included (Optisch / Kabellos)</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "855171",
+            "name": "CHERRY MX Board 3.0S Deutsches Layout, MX Silent Red, schwarz",
+            "image_single_big": "https://img.computerunivers.net/images/1000/90816199B6A8FC11AED44496B3B0F152.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/90816199B6A8FC11AED44496B3B0F152.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/90816199B6A8FC11AED44496B3B0F152.jpg",
+                "https://img.computerunivers.net/images/1000/90816199C78A01374650459C8030B976.jpg",
+                "https://img.computerunivers.net/images/1000/9081619943BCE5E591064FE1A995C3E1.jpg",
+                "https://img.computerunivers.net/images/1000/90816199CDA4EE0FC39D4C3283C54A15.jpg",
+                "https://img.computerunivers.net/images/1000/908161991CFC4602C6F548EB98B17F58.jpg",
+                "https://img.computerunivers.net/images/1000/908161997CC870D94B2B4C56B585BC87.jpg",
+                "https://img.computerunivers.net/images/1000/908161997E62332785F747B8BD21E8EB.jpg",
+                "https://img.computerunivers.net/images/1000/9081619906609B3F450F47BD9CF8BEAD.jpg",
+                "https://img.computerunivers.net/images/1000/908161996E46552DABBE4D2499BB857F.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/90816199B6A8FC11AED44496B3B0F152.jpg",
+                "https://img.computerunivers.net/images/400x400/90816199C78A01374650459C8030B976.jpg",
+                "https://img.computerunivers.net/images/400x400/9081619943BCE5E591064FE1A995C3E1.jpg",
+                "https://img.computerunivers.net/images/400x400/90816199CDA4EE0FC39D4C3283C54A15.jpg",
+                "https://img.computerunivers.net/images/400x400/908161991CFC4602C6F548EB98B17F58.jpg",
+                "https://img.computerunivers.net/images/400x400/908161997CC870D94B2B4C56B585BC87.jpg",
+                "https://img.computerunivers.net/images/400x400/908161997E62332785F747B8BD21E8EB.jpg",
+                "https://img.computerunivers.net/images/400x400/9081619906609B3F450F47BD9CF8BEAD.jpg",
+                "https://img.computerunivers.net/images/400x400/908161996E46552DABBE4D2499BB857F.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["Ja", "multicoloured"],
+                    "valuesDisplayOrder": [0, 9]
+                },
+                "Gaming-Features": {
+                    "displayName": "Gaming-Features",
+                    "values": ["N-Key Rollover", "Anti-Ghosting"],
+                    "valuesDisplayOrder": [3, 2]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabelgebunden", "USB"],
+                    "valuesDisplayOrder": [0, 4]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Gaming"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Ja", "Cherry MX Silent Red"],
+                    "valuesDisplayOrder": [0, 10]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 76,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 15:00:39",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Gaming, </span> <span style=\"white-space:nowrap;\">multicoloured illumination, </span> <span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">mechanical (Cherry MX Silent Red Switches)</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "749131",
+            "name": "CHERRY STREAM KEYBOARD schwarz, Layout Deutschland",
+            "image_single_big": "https://img.computerunivers.net/images/1000/90781583EE84ADCE1B7A4D6E8A40282F.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/90781583EE84ADCE1B7A4D6E8A40282F.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/90781583EE84ADCE1B7A4D6E8A40282F.jpg",
+                "https://img.computerunivers.net/images/1000/907815839C3CBB3E0ED44B68B3BE0686.jpg",
+                "https://img.computerunivers.net/images/1000/907815834EC065E45C5947C5A9BA0464.jpg",
+                "https://img.computerunivers.net/images/1000/90781583122669C65D0C4915BAD547AE.jpg",
+                "https://img.computerunivers.net/images/1000/907815830C4ECEBE26CC4B05B44BB5B8.jpg",
+                "https://img.computerunivers.net/images/1000/9078158354E21202474041B6B4685F8F.jpg",
+                "https://img.computerunivers.net/images/1000/907815836978D1CD766F4909838E98B1.jpg",
+                "https://img.computerunivers.net/images/1000/90781583017970C6DE7443719C982A16.jpg",
+                "https://img.computerunivers.net/images/1000/90781583B57CE6C2AE174DECAB425953.jpg",
+                "https://img.computerunivers.net/images/1000/90781583A2561D55B60B4F99AA3E1D8F.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/90781583EE84ADCE1B7A4D6E8A40282F.jpg",
+                "https://img.computerunivers.net/images/400x400/907815839C3CBB3E0ED44B68B3BE0686.jpg",
+                "https://img.computerunivers.net/images/400x400/907815834EC065E45C5947C5A9BA0464.jpg",
+                "https://img.computerunivers.net/images/400x400/90781583122669C65D0C4915BAD547AE.jpg",
+                "https://img.computerunivers.net/images/400x400/907815830C4ECEBE26CC4B05B44BB5B8.jpg",
+                "https://img.computerunivers.net/images/400x400/9078158354E21202474041B6B4685F8F.jpg",
+                "https://img.computerunivers.net/images/400x400/907815836978D1CD766F4909838E98B1.jpg",
+                "https://img.computerunivers.net/images/400x400/90781583017970C6DE7443719C982A16.jpg",
+                "https://img.computerunivers.net/images/400x400/90781583B57CE6C2AE174DECAB425953.jpg",
+                "https://img.computerunivers.net/images/400x400/90781583A2561D55B60B4F99AA3E1D8F.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "FlacheTasten": {
+                    "displayName": "Slim Keycaps",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabelgebunden", "USB"],
+                    "valuesDisplayOrder": [0, 4]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Office"],
+                    "valuesDisplayOrder": [3]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 19,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:45:41",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Office, </span> <span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">Slim Keycaps</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "229420",
+            "name": "CHERRY B.UNLIMITED 3.0 schwarz, Layout Deutschland",
+            "image_single_big": "https://img.computerunivers.net/images/1000/90692902639574C735F143A190060C37.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/90692902639574C735F143A190060C37.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/90692902639574C735F143A190060C37.jpg",
+                "https://img.computerunivers.net/images/1000/90692902AD80520260D047EFA90C8C1E.jpg",
+                "https://img.computerunivers.net/images/1000/90692902680C3CD8DBD04CDA8FE33182.jpg",
+                "https://img.computerunivers.net/images/1000/90692902E2AF663F96B242D59AAEE763.jpg",
+                "https://img.computerunivers.net/images/1000/906929022B8603ED0EBD4437865D78DE.jpg",
+                "https://img.computerunivers.net/images/1000/906929021E6BFD311785438399E8B2BE.jpg",
+                "https://img.computerunivers.net/images/1000/906929027602D29648C541B680B84A3C.jpg",
+                "https://img.computerunivers.net/images/1000/90692902D8D272106F04498C913D58EE.jpg",
+                "https://img.computerunivers.net/images/1000/906929024DAD77E877CF4747A24D9E6A.jpg",
+                "https://img.computerunivers.net/images/1000/906929023D048A7FCA3E49A5A91F0D41.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/90692902639574C735F143A190060C37.jpg",
+                "https://img.computerunivers.net/images/400x400/90692902AD80520260D047EFA90C8C1E.jpg",
+                "https://img.computerunivers.net/images/400x400/90692902680C3CD8DBD04CDA8FE33182.jpg",
+                "https://img.computerunivers.net/images/400x400/90692902E2AF663F96B242D59AAEE763.jpg",
+                "https://img.computerunivers.net/images/400x400/906929022B8603ED0EBD4437865D78DE.jpg",
+                "https://img.computerunivers.net/images/400x400/906929021E6BFD311785438399E8B2BE.jpg",
+                "https://img.computerunivers.net/images/400x400/906929027602D29648C541B680B84A3C.jpg",
+                "https://img.computerunivers.net/images/400x400/90692902D8D272106F04498C913D58EE.jpg",
+                "https://img.computerunivers.net/images/400x400/906929024DAD77E877CF4747A24D9E6A.jpg",
+                "https://img.computerunivers.net/images/400x400/906929023D048A7FCA3E49A5A91F0D41.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "FlacheTasten": {
+                    "displayName": "Slim Keycaps",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabellos", "2.4 GHz Funk"],
+                    "valuesDisplayOrder": [0, 1]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Office"],
+                    "valuesDisplayOrder": [3]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["Ja", "Optisch / Kabellos"],
+                    "valuesDisplayOrder": [0, 4]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 56,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 14:45:10",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Office, </span> <span style=\"white-space:nowrap;\">Connection via 2.4 GHz Funk</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">Slim Keycaps</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li><li><span style=\"white-space:nowrap;\">Mouse included (Optisch / Kabellos)</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "45899",
+            "name": "CHERRY DC 2000 schwarz DE Layout",
+            "image_single_big": "https://img.computerunivers.net/images/1000/9059424212D79EE02C8148CDAEE45520.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/9059424212D79EE02C8148CDAEE45520.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/9059424212D79EE02C8148CDAEE45520.jpg",
+                "https://img.computerunivers.net/images/1000/90594242BA01090DA9104CC9A5A4AAFE.jpg",
+                "https://img.computerunivers.net/images/1000/90594242FE78BE955E6A4B76879CAEEF.jpg",
+                "https://img.computerunivers.net/images/1000/9059424253BCBB85CB004896B05E15FF.jpg",
+                "https://img.computerunivers.net/images/1000/90594242FB88895EECD34ED5B991217C.jpg",
+                "https://img.computerunivers.net/images/1000/9059424206DB3C2B92724188B41C6F43.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/9059424212D79EE02C8148CDAEE45520.jpg",
+                "https://img.computerunivers.net/images/400x400/90594242BA01090DA9104CC9A5A4AAFE.jpg",
+                "https://img.computerunivers.net/images/400x400/90594242FE78BE955E6A4B76879CAEEF.jpg",
+                "https://img.computerunivers.net/images/400x400/9059424253BCBB85CB004896B05E15FF.jpg",
+                "https://img.computerunivers.net/images/400x400/90594242FB88895EECD34ED5B991217C.jpg",
+                "https://img.computerunivers.net/images/400x400/9059424206DB3C2B92724188B41C6F43.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "FlacheTasten": {
+                    "displayName": "Slim Keycaps",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabelgebunden", "USB"],
+                    "valuesDisplayOrder": [0, 4]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Office"],
+                    "valuesDisplayOrder": [3]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["Ja", "Optisch / Kabelgebunden"],
+                    "valuesDisplayOrder": [0, 5]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 14,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:45:30",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Office, </span> <span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">Slim Keycaps</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li><li><span style=\"white-space:nowrap;\">Mouse included (Optisch / Kabelgebunden)</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "13451",
+            "name": "CHERRY MW 3000 schwarz",
+            "image_single_big": "https://img.computerunivers.net/images/1000/90536311C280EB612E7B4D6A9E6FBB8F.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/90536311C280EB612E7B4D6A9E6FBB8F.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/90536311C280EB612E7B4D6A9E6FBB8F.jpg",
+                "https://img.computerunivers.net/images/1000/90536311CEC3C926DE63458098943B57.jpg",
+                "https://img.computerunivers.net/images/1000/90536311438FE7DE135A44C393EB90B6.jpg",
+                "https://img.computerunivers.net/images/1000/90536311B6828B492DA742ECB73AFAA3.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/90536311C280EB612E7B4D6A9E6FBB8F.jpg",
+                "https://img.computerunivers.net/images/400x400/90536311CEC3C926DE63458098943B57.jpg",
+                "https://img.computerunivers.net/images/400x400/90536311438FE7DE135A44C393EB90B6.jpg",
+                "https://img.computerunivers.net/images/400x400/90536311B6828B492DA742ECB73AFAA3.jpg"
+            ],
+            "facets": {
+                "AnzahlderTasten": {
+                    "displayName": "Buttons Quantity",
+                    "values": ["5"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Scrollrad": {
+                    "displayName": "Scroll Wheel",
+                    "values": ["2-Way"],
+                    "valuesDisplayOrder": [1]
+                },
+                "ErgonomischesDesign": {
+                    "displayName": "Ergonomic Design",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "UmschaltbareAufl%c3%b6sung": {
+                    "displayName": "Sensitivity-Switching",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Anschlusstyp": {
+                    "displayName": "Connectivity Technology",
+                    "values": ["Kabellos", "Radio (2.40 GHz)"],
+                    "valuesDisplayOrder": [0, 3]
+                },
+                "Energieversorgung": {
+                    "displayName": "Power Supply",
+                    "values": ["AAA Battery"],
+                    "valuesDisplayOrder": [4]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [23]
+                },
+                "Bewegungsaufl%c3%b6sung": {
+                    "displayName": "Movement Resolution",
+                    "values": ["1750dpi"],
+                    "valuesDisplayOrder": [29]
+                },
+                "Abtasttechnologie": {
+                    "displayName": "Movement Detection Technology",
+                    "values": ["infrared"],
+                    "valuesDisplayOrder": [7]
+                },
+                "Links-%2fRechtsh%c3%a4ndergeeignet": {
+                    "displayName": "Ambidextrous use",
+                    "values": ["für Rechtshänder", "Right Handed"],
+                    "valuesDisplayOrder": [0, 4]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet": {
+                    "displayName": "Anwendungsgebiet",
+                    "values": ["Office"],
+                    "valuesDisplayOrder": [3]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 18,
+            "category_single": "Computer Mouse",
+            "category_list": [
+                "Computer Mouse",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:30:04",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Wirelesse Mouse for Office</span> </li><li><span style=\"white-space:nowrap;\">Connection via Radio (2.40 GHz)</span> </li><li><span style=\"white-space:nowrap;\">Right Handed usage, </span> <span style=\"white-space:nowrap;\">ergonomic design</span> </li><li><span style=\"white-space:nowrap;\">5 Buttons, </span> <span style=\"white-space:nowrap;\">2-Way Tilt Wheel</span> </li><li><span style=\"white-space:nowrap;\">Sensor type: infrared, </span> <span style=\"white-space:nowrap;\">1750dpi (adjustable)</span> </li><li><span style=\"white-space:nowrap;\">Power supply: AAA Battery</span> </li></ul>",
+            "popularity": 17
+        },
+        {
+            "id": "13460",
+            "name": "CHERRY KC 1000 schwarz, Layout Deutschland",
+            "image_single_big": "https://img.computerunivers.net/images/1000/90536332AB961FB2B7654842B20D7947.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/90536332AB961FB2B7654842B20D7947.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/90536332AB961FB2B7654842B20D7947.jpg",
+                "https://img.computerunivers.net/images/1000/9053633207304495A5AF40C88D442D05.jpg",
+                "https://img.computerunivers.net/images/1000/90536332A5A478C3E0074B9FB16BBEB1.jpg",
+                "https://img.computerunivers.net/images/1000/9053633286340A66DD2540DEABAA38CB.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/90536332AB961FB2B7654842B20D7947.jpg",
+                "https://img.computerunivers.net/images/400x400/9053633207304495A5AF40C88D442D05.jpg",
+                "https://img.computerunivers.net/images/400x400/90536332A5A478C3E0074B9FB16BBEB1.jpg",
+                "https://img.computerunivers.net/images/400x400/9053633286340A66DD2540DEABAA38CB.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "FlacheTasten": {
+                    "displayName": "Slim Keycaps",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabelgebunden", "USB"],
+                    "valuesDisplayOrder": [0, 4]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Office"],
+                    "valuesDisplayOrder": [3]
+                }
+            },
+            "manufacturer": "CHERRY",
+            "manufacturer_picture": "/media/images/manu/list/101377FE9D6D5A7AC4D8D8DEFFCB6.jpg",
+            "price": 8,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:30:04",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Office, </span> <span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">Slim Keycaps</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li></ul>",
+            "popularity": 16
+        },
+        {
+            "id": "660332",
+            "name": "Logitech G603 Lightspeed Wireless Gaming Mouse",
+            "image_single_big": "https://img.computerunivers.net/images/1000/907174399C72F8EB694440BE8DC49C73.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/907174399C72F8EB694440BE8DC49C73.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/907174399C72F8EB694440BE8DC49C73.jpg",
+                "https://img.computerunivers.net/images/1000/90717439C3204826AF0C437D89AF97E9.jpg",
+                "https://img.computerunivers.net/images/1000/90717439BC655C1D034643B0BADD1F33.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/907174399C72F8EB694440BE8DC49C73.jpg",
+                "https://img.computerunivers.net/images/400x400/90717439C3204826AF0C437D89AF97E9.jpg",
+                "https://img.computerunivers.net/images/400x400/90717439BC655C1D034643B0BADD1F33.jpg"
+            ],
+            "facets": {
+                "Scrollrad": {
+                    "displayName": "Scroll Wheel",
+                    "values": ["2-Way"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anschlusstyp": {
+                    "displayName": "Connectivity Technology",
+                    "values": ["Kabellos", "Bluetooth", "USB"],
+                    "valuesDisplayOrder": [0, 2, 5]
+                },
+                "Abtasttechnologie": {
+                    "displayName": "Movement Detection Technology",
+                    "values": ["optical"],
+                    "valuesDisplayOrder": [3]
+                },
+                "ProgrammierbareTasten": {
+                    "displayName": "Programmable Buttons",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "UmschaltbareAufl%c3%b6sung": {
+                    "displayName": "Sensitivity-Switching",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Energieversorgung": {
+                    "displayName": "Power Supply",
+                    "values": ["AA Battery"],
+                    "valuesDisplayOrder": [3]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [23]
+                },
+                "AnzahlderTasten": {
+                    "displayName": "Buttons Quantity",
+                    "values": ["6"],
+                    "valuesDisplayOrder": [7]
+                },
+                "Bewegungsaufl%c3%b6sung": {
+                    "displayName": "Movement Resolution",
+                    "values": ["12000 dpi"],
+                    "valuesDisplayOrder": [72]
+                },
+                "Links-%2fRechtsh%c3%a4ndergeeignet": {
+                    "displayName": "Ambidextrous use",
+                    "values": ["für Rechtshänder", "Right Handed"],
+                    "valuesDisplayOrder": [0, 4]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet": {
+                    "displayName": "Anwendungsgebiet",
+                    "values": ["Gaming"],
+                    "valuesDisplayOrder": [2]
+                },
+                "Besonderheiten": {
+                    "displayName": "Special Features",
+                    "values": ["Ladestandsanzeige"],
+                    "valuesDisplayOrder": [3]
+                }
+            },
+            "manufacturer": "Logitech",
+            "manufacturer_picture": "/media/images/manu/list/10062187A75A586064274BC05C35F.jpg",
+            "price": 43,
+            "category_single": "Computer Mouse",
+            "category_list": [
+                "Computer Mouse",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:15:08",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Wirelesse Mouse for Gaming</span> </li><li><span style=\"white-space:nowrap;\">Connection via Bluetooth, USB</span> </li><li><span style=\"white-space:nowrap;\">Right Handed usage</span> </li><li><span style=\"white-space:nowrap;\">6 Buttons (progammable), </span> <span style=\"white-space:nowrap;\">2-Way Tilt Wheel</span> </li><li><span style=\"white-space:nowrap;\">Sensor type: optical, </span> <span style=\"white-space:nowrap;\">12000 dpi (adjustable)</span> </li><li><span style=\"white-space:nowrap;\">Ladestandsanzeige, </span> <span style=\"white-space:nowrap;\">Power supply: AA Battery</span> </li></ul>",
+            "popularity": 15
+        },
+        {
+            "id": "240811",
+            "name": "Logitech MK850 Performance",
+            "image_single_big": "https://img.computerunivers.net/images/1000/9069357310DD232B4C2244A08064AD87.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/9069357310DD232B4C2244A08064AD87.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/9069357310DD232B4C2244A08064AD87.jpg",
+                "https://img.computerunivers.net/images/1000/90693573041353AF312140719407B81D.jpg",
+                "https://img.computerunivers.net/images/1000/906935734F05CE618F604E50AC28DBCA.jpg",
+                "https://img.computerunivers.net/images/1000/906935730C6339F7B8524E0090C7793C.jpg",
+                "https://img.computerunivers.net/images/1000/90693573A2F4C47AD14A43F88AC21B6D.jpg",
+                "https://img.computerunivers.net/images/1000/90693573C1B67A0323864819A2240AFA.jpg",
+                "https://img.computerunivers.net/images/1000/90693573001CF15D16FC46D0A4870692.jpg",
+                "https://img.computerunivers.net/images/1000/90693573B12F5AB350A6483DAFD196E2.jpg",
+                "https://img.computerunivers.net/images/1000/90693573FB71EBC4338D48289B2DFFD8.jpg",
+                "https://img.computerunivers.net/images/1000/90693573AB618E25D5814CAEA92EEB7A.jpg",
+                "https://img.computerunivers.net/images/1000/906935737FC22856FE434C21ACFD65BA.jpg",
+                "https://img.computerunivers.net/images/1000/906935732B827A9B700040279EB6D1FF.jpg",
+                "https://img.computerunivers.net/images/1000/90693573E5AF58A13D004938BD6C3401.jpg",
+                "https://img.computerunivers.net/images/1000/9069357362A7B160C0D346E0AA9359DA.jpg",
+                "https://img.computerunivers.net/images/1000/90693573A92D0623A3DA472986836DF3.jpg",
+                "https://img.computerunivers.net/images/1000/906935735B35E0299B134DA2B965C409.jpg",
+                "https://img.computerunivers.net/images/1000/90693573DE4F0759A9074F3E9D6BA6C2.jpg",
+                "https://img.computerunivers.net/images/1000/90693573E39C31F8579441BCA64EB070.jpg",
+                "https://img.computerunivers.net/images/1000/90693573D3A07C07B329439DA1677C9D.jpg",
+                "https://img.computerunivers.net/images/1000/90693573ABF23A53F4F648D4B2F5B2AB.jpg",
+                "https://img.computerunivers.net/images/1000/90693573D823646644C146598F4CA36B.jpg",
+                "https://img.computerunivers.net/images/1000/90693573096726B923904F3BB398F9D4.jpg",
+                "https://img.computerunivers.net/images/1000/90693573619E71DC9AF44517A01F5AC5.jpg",
+                "https://img.computerunivers.net/images/1000/90693573B7C55F9807994F798F781257.jpg",
+                "https://img.computerunivers.net/images/1000/90693573A63A0A0B38094DF7919C25E7.jpg",
+                "https://img.computerunivers.net/images/1000/90693573B0B4F96A196645BE8E804B7D.jpg",
+                "https://img.computerunivers.net/images/1000/906935737F970CFF872B4E409617063B.jpg",
+                "https://img.computerunivers.net/images/1000/90693573741A169067764EDD9652C89B.jpg",
+                "https://img.computerunivers.net/images/1000/90693573D06F36A60ACD474181F4441D.jpg",
+                "https://img.computerunivers.net/images/1000/90693573C0DAD28AE77C4B3D9BF21983.jpg",
+                "https://img.computerunivers.net/images/1000/90693573DD150692DE114B208FC64CEF.jpg",
+                "https://img.computerunivers.net/images/1000/90693573B7DB0FC13AD34B8DA8936B39.jpg",
+                "https://img.computerunivers.net/images/1000/906935730821D3879D1C4F17AA8D3866.jpg",
+                "https://img.computerunivers.net/images/1000/906935730083DC0B29F746E1ADA2D340.jpg",
+                "https://img.computerunivers.net/images/1000/906935734FF46FAF3F454950966DB1F2.jpg",
+                "https://img.computerunivers.net/images/1000/9069357371142709384246C8A0FEC9F6.jpg",
+                "https://img.computerunivers.net/images/1000/90693573D0A74311985B448F87E77087.jpg",
+                "https://img.computerunivers.net/images/1000/90693573BA5A0F5BE1214C69ACC05F38.jpg",
+                "https://img.computerunivers.net/images/1000/90693573FE499F3AD0CF4236819687AC.jpg",
+                "https://img.computerunivers.net/images/1000/906935736195C92DE1BF4D8183F0FBE4.jpg",
+                "https://img.computerunivers.net/images/1000/90693573F7C037A171734EB8841F379A.jpg",
+                "https://img.computerunivers.net/images/1000/90693573A60C3C60EA4E4A1096DA74B8.jpg",
+                "https://img.computerunivers.net/images/1000/90693573B9080A8CC15240709C7D3408.jpg",
+                "https://img.computerunivers.net/images/1000/90693573C2AEE76EF4434FB883BF2F65.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/9069357310DD232B4C2244A08064AD87.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573041353AF312140719407B81D.jpg",
+                "https://img.computerunivers.net/images/400x400/906935734F05CE618F604E50AC28DBCA.jpg",
+                "https://img.computerunivers.net/images/400x400/906935730C6339F7B8524E0090C7793C.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573A2F4C47AD14A43F88AC21B6D.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573C1B67A0323864819A2240AFA.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573001CF15D16FC46D0A4870692.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573B12F5AB350A6483DAFD196E2.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573FB71EBC4338D48289B2DFFD8.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573AB618E25D5814CAEA92EEB7A.jpg",
+                "https://img.computerunivers.net/images/400x400/906935737FC22856FE434C21ACFD65BA.jpg",
+                "https://img.computerunivers.net/images/400x400/906935732B827A9B700040279EB6D1FF.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573E5AF58A13D004938BD6C3401.jpg",
+                "https://img.computerunivers.net/images/400x400/9069357362A7B160C0D346E0AA9359DA.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573A92D0623A3DA472986836DF3.jpg",
+                "https://img.computerunivers.net/images/400x400/906935735B35E0299B134DA2B965C409.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573DE4F0759A9074F3E9D6BA6C2.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573E39C31F8579441BCA64EB070.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573D3A07C07B329439DA1677C9D.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573ABF23A53F4F648D4B2F5B2AB.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573D823646644C146598F4CA36B.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573096726B923904F3BB398F9D4.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573619E71DC9AF44517A01F5AC5.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573B7C55F9807994F798F781257.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573A63A0A0B38094DF7919C25E7.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573B0B4F96A196645BE8E804B7D.jpg",
+                "https://img.computerunivers.net/images/400x400/906935737F970CFF872B4E409617063B.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573741A169067764EDD9652C89B.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573D06F36A60ACD474181F4441D.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573C0DAD28AE77C4B3D9BF21983.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573DD150692DE114B208FC64CEF.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573B7DB0FC13AD34B8DA8936B39.jpg",
+                "https://img.computerunivers.net/images/400x400/906935730821D3879D1C4F17AA8D3866.jpg",
+                "https://img.computerunivers.net/images/400x400/906935730083DC0B29F746E1ADA2D340.jpg",
+                "https://img.computerunivers.net/images/400x400/906935734FF46FAF3F454950966DB1F2.jpg",
+                "https://img.computerunivers.net/images/400x400/9069357371142709384246C8A0FEC9F6.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573D0A74311985B448F87E77087.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573BA5A0F5BE1214C69ACC05F38.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573FE499F3AD0CF4236819687AC.jpg",
+                "https://img.computerunivers.net/images/400x400/906935736195C92DE1BF4D8183F0FBE4.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573F7C037A171734EB8841F379A.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573A60C3C60EA4E4A1096DA74B8.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573B9080A8CC15240709C7D3408.jpg",
+                "https://img.computerunivers.net/images/400x400/90693573C2AEE76EF4434FB883BF2F65.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "MultimediaTasten": {
+                    "displayName": "Multimedia Keys",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabellos", "2.4 GHz Funk", "Bluetooth"],
+                    "valuesDisplayOrder": [0, 1, 2]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["Ja", "fest"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["Ja", "Fest"],
+                    "valuesDisplayOrder": [0, 3]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Multimedia", "Office"],
+                    "valuesDisplayOrder": [2, 3]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["Ja", "Optisch / Kabellos"],
+                    "valuesDisplayOrder": [0, 4]
+                }
+            },
+            "manufacturer": "Logitech",
+            "manufacturer_picture": "/media/images/manu/list/10062187A75A586064274BC05C35F.jpg",
+            "price": 63,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:45:39",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Multimedia, Office, </span> <span style=\"white-space:nowrap;\">Connection via 2.4 GHz Funk, Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ) mit festem Nummerblock</span> </li><li><span style=\"white-space:nowrap;\">ergonomic design</span> </li><li><span style=\"white-space:nowrap;\">Fest wrist rest</span> </li><li><span style=\"white-space:nowrap;\">Mouse included (Optisch / Kabellos)</span> </li></ul>",
+            "popularity": 14
+        },
+        {
+            "id": "715841",
+            "name": "Microsoft Modern Mobile Mouse schwarz",
+            "image_single_big": "https://img.computerunivers.net/images/1000/90754853F2B73B7780E749DC816AE118.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/90754853F2B73B7780E749DC816AE118.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/90754853F2B73B7780E749DC816AE118.jpg",
+                "https://img.computerunivers.net/images/1000/90754853E8FA5707B35F4E259D2F2FA0.jpg",
+                "https://img.computerunivers.net/images/1000/907548535C33983DC83348B5BD616F20.jpg",
+                "https://img.computerunivers.net/images/1000/90754853D43C49313C2A4E1DB686EB0B.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/90754853F2B73B7780E749DC816AE118.jpg",
+                "https://img.computerunivers.net/images/400x400/90754853E8FA5707B35F4E259D2F2FA0.jpg",
+                "https://img.computerunivers.net/images/400x400/907548535C33983DC83348B5BD616F20.jpg",
+                "https://img.computerunivers.net/images/400x400/90754853D43C49313C2A4E1DB686EB0B.jpg"
+            ],
+            "facets": {
+                "AnzahlderTasten": {
+                    "displayName": "Buttons Quantity",
+                    "values": ["3"],
+                    "valuesDisplayOrder": [4]
+                },
+                "Scrollrad": {
+                    "displayName": "Scroll Wheel",
+                    "values": ["2-Way"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anschlusstyp": {
+                    "displayName": "Connectivity Technology",
+                    "values": ["Kabellos", "Bluetooth"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Bewegungsaufl%c3%b6sung": {
+                    "displayName": "Movement Resolution",
+                    "values": ["1800 dpi"],
+                    "valuesDisplayOrder": [30]
+                },
+                "Energieversorgung": {
+                    "displayName": "Power Supply",
+                    "values": ["AAA Battery"],
+                    "valuesDisplayOrder": [4]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [23]
+                },
+                "Abtasttechnologie": {
+                    "displayName": "Movement Detection Technology",
+                    "values": ["BlueTrack"],
+                    "valuesDisplayOrder": [2]
+                },
+                "Links-%2fRechtsh%c3%a4ndergeeignet": {
+                    "displayName": "Ambidextrous use",
+                    "values": ["für Rechts- & Linkshänder", "Ambidextrous"],
+                    "valuesDisplayOrder": [0, 2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet": {
+                    "displayName": "Anwendungsgebiet",
+                    "values": ["Office", "Multimedia"],
+                    "valuesDisplayOrder": [3, 4]
+                }
+            },
+            "manufacturer": "Microsoft",
+            "manufacturer_picture": "/media/images/manu/list/100731D9B9B99F705419D9F14D5F4.jpg",
+            "price": 21,
+            "category_single": "Computer Mouse",
+            "category_list": [
+                "Computer Mouse",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 15:00:36",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Wirelesse Mouse for Office, Multimedia</span> </li><li><span style=\"white-space:nowrap;\">Connection via Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">Ambidextrous usage</span> </li><li><span style=\"white-space:nowrap;\">3 Buttons, </span> <span style=\"white-space:nowrap;\">2-Way Tilt Wheel</span> </li><li><span style=\"white-space:nowrap;\">Sensor type: BlueTrack, </span> <span style=\"white-space:nowrap;\">1800 dpi</span> </li><li><span style=\"white-space:nowrap;\">Power supply: AAA Battery</span> </li></ul>",
+            "popularity": 13
+        },
+        {
+            "id": "878643",
+            "name": "Rapoo 8000M Multi-Mode-Deskset schwarz",
+            "image_single_big": "https://img.computerunivers.net/images/1000/9083125087C8A9788C854528B0253BD9.jpg",
+            "image_single_square": "https://img.computerunivers.net/images/400x400/9083125087C8A9788C854528B0253BD9.jpg",
+            "image_list_big": [
+                "https://img.computerunivers.net/images/1000/9083125087C8A9788C854528B0253BD9.jpg"
+            ],
+            "image_list_square": [
+                "https://img.computerunivers.net/images/400x400/9083125087C8A9788C854528B0253BD9.jpg"
+            ],
+            "facets": {
+                "Layout": {
+                    "displayName": "Layout",
+                    "values": ["German (QWERTZ)"],
+                    "valuesDisplayOrder": [6]
+                },
+                "Farbe": {
+                    "displayName": "Color",
+                    "values": ["black"],
+                    "valuesDisplayOrder": [17]
+                },
+                "FlacheTasten": {
+                    "displayName": "Slim Keycaps",
+                    "values": [true],
+                    "valuesDisplayOrder": [2]
+                },
+                "Beleuchtet": {
+                    "displayName": "Illuminated",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "MechanischeTastatur": {
+                    "displayName": "Mechanical Keyboard",
+                    "values": ["Nein"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Schnittstelle": {
+                    "displayName": "Interface",
+                    "values": ["Kabellos", "2.4 GHz Funk", "Bluetooth"],
+                    "valuesDisplayOrder": [0, 1, 2]
+                },
+                "Nummernblock": {
+                    "displayName": "Numeric Keypad",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Handgelenkauflage": {
+                    "displayName": "Palm Rest",
+                    "values": ["No"],
+                    "valuesDisplayOrder": [1]
+                },
+                "Anwendungsgebiet%2fEinsatzzweck": {
+                    "displayName": "Anwendungsgebiet / Einsatzzweck",
+                    "values": ["Multimedia", "Office"],
+                    "valuesDisplayOrder": [2, 3]
+                },
+                "SetmitMaus": {
+                    "displayName": "Set with Mouse",
+                    "values": ["Ja", "Optisch / Kabellos"],
+                    "valuesDisplayOrder": [0, 4]
+                }
+            },
+            "manufacturer": "Rapoo",
+            "manufacturer_picture": "/content/images/spacer_small.png",
+            "price": 12,
+            "category_single": "Computer Keyboard",
+            "category_list": [
+                "Computer Keyboard",
+                "Input Devices",
+                "Computer & Office"
+            ],
+            "publish_time": "04/17/2022 09:45:48",
+            "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Keyboard for Multimedia, Office, </span> <span style=\"white-space:nowrap;\">Connection via 2.4 GHz Funk, Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">Layout: German (QWERTZ)</span> </li><li><span style=\"white-space:nowrap;\">Slim Keycaps</span> </li><li><span style=\"white-space:nowrap;\">Mouse included (Optisch / Kabellos)</span> </li></ul>",
+            "popularity": 12
+        }
+    ]
+}
