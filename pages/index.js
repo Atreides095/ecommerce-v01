@@ -1,5 +1,6 @@
 import React from 'react';
+import { Heading } from '@chakra-ui/react';
 
 export default function Home() {
-    return <React.Fragment></React.Fragment>;
+    return <Heading>Home</Heading>;
 }

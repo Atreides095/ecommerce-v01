@@ -16,7 +16,7 @@ const SearchBar = () => {
                     border={0}
                     borderLeftRadius={0}
                     w="100%"
-                    colorScheme="blue"
+                    colorScheme="gray"
                     icon={<AiOutlineSearch />}
                 />
             </InputRightAddon>

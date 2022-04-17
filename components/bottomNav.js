@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import {
-    Box,
     Flex,
     ButtonGroup,
     Button,
@@ -29,17 +28,17 @@ const NavButton = ({ icon, text, handler }) => {
             fontSize="xs"
             onClick={() => handler()}
         >
-            <Icon w={6} h={6} as={icon} color="blue.900" />
+            <Icon w={6} h={6} as={icon} color="gray.800" />
             {text}
         </Button>
     );
 };
 
-const BottomNav = () => {
-    // const [searchActive, setSearchActive] = useState(true);
+const BottomNav = ({ onOpenShoppingCart }) => {
     const { isOpen, onToggle } = useDisclosure();
     return (
         <Flex
+            d={['flex', 'none']}
             pos="fixed"
             size="lg"
             bottom={0}
@@ -48,15 +47,14 @@ const BottomNav = () => {
             direction="column"
         >
             <Slide direction="bottom" in={isOpen} unmountOnExit>
-                <Center w="100%" bg="blue.900" py={4} px={3} mb={20}>
+                <Center w="100%" bg="gray.300" py={4} px={3} mb={20}>
                     <SearchBar />
                 </Center>
             </Slide>
-            {/* </Box> */}
             <ButtonGroup
                 zIndex="999"
                 borderTop="2px"
-                borderColor="blue.900"
+                borderColor="gray.300"
                 bg="white"
                 variant="outline"
                 h="100%"
@@ -67,7 +65,11 @@ const BottomNav = () => {
                     icon={AiOutlineSearch}
                     handler={onToggle}
                 />
-                <NavButton text="Cart" icon={AiOutlineShoppingCart} />
+                <NavButton
+                    text="Cart"
+                    icon={AiOutlineShoppingCart}
+                    handler={onOpenShoppingCart}
+                />
                 <NavButton text="Wishlist" icon={AiOutlineHeart} />
                 <NavButton text="User" icon={AiOutlineUser} />
             </ButtonGroup>
