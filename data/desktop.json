@@ -1,17 +1,6 @@
 [
     {
         "name": "Dell OptiPlex 3080 MFF J46TV mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 388,
-        "category_list": [
-            "Desktop PCs",
-            "Desktop PCs & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:22",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-10105T 4x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">4 GB RAM, </span> <span style=\"white-space:nowrap;\">128 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 19,
         "image_single": "/908364760BF0382DCBD2473D9520152A.jpg",
         "image_list": [
             "/908364760BF0382DCBD2473D9520152A.jpg",
@@ -173,21 +162,21 @@
                 "values": ["Intel Core i3", "Core™ i3-10105T"],
                 "valuesDisplayOrder": [0, 389]
             }
-        }
-    },
-    {
-        "name": "MSI Desktop PRO DP21 11M-014AT Tower-PC with Windows 10 Pro",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 518,
+        },
+        "manufacturer": "Dell",
+        "price": 388,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400 6x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 730</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1626356811,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-10105T 4x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">4 GB RAM, </span> <span style=\"white-space:nowrap;\">128 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 19
+    },
+    {
+        "name": "MSI Desktop PRO DP21 11M-014AT Tower-PC with Windows 10 Pro",
         "image_single": "/90849119EDDDCE36112D401F9D3ED360.jpg",
         "image_list": [
             "/90849119EDDDCE36112D401F9D3ED360.jpg",
@@ -329,21 +318,21 @@
                 "values": ["Intel", "Intel® UHD Graphics 730"],
                 "valuesDisplayOrder": [0, 274]
             }
-        }
-    },
-    {
-        "name": "Intel NUC 8 Rugged Kit NUC8CCHKRN2 mini-PC-PC without OS",
-        "manufacturer": "Intel",
-        "manufacturer_picture": "/media/images/manu/list/100514936D313C19645429AFF0BD6.jpg",
-        "price": 194,
+        },
+        "manufacturer": "MSI",
+        "price": 518,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 09:30:17",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Celeron® N3350 2x 1.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® HD Graphics 500 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">4 GB RAM, </span> <span style=\"white-space:nowrap;\">64 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1635776455,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400 6x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 730</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Intel NUC 8 Rugged Kit NUC8CCHKRN2 mini-PC-PC without OS",
         "image_single": "/908444368B189775ABC547B383CADB32.jpg",
         "image_list": [
             "/908444368B189775ABC547B383CADB32.jpg",
@@ -492,21 +481,21 @@
                 "values": ["Wi-Fi 5 (802.11ac)"],
                 "valuesDisplayOrder": [3]
             }
-        }
-    },
-    {
-        "name": "Apple iMac 24'' Retina MGTF3D/A All-In-One-PC with macOS",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1188,
+        },
+        "manufacturer": "Intel",
+        "price": 194,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 10:45:19",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (7c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1630395701,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Celeron® N3350 2x 1.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® HD Graphics 500 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">4 GB RAM, </span> <span style=\"white-space:nowrap;\">64 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Apple iMac 24'' Retina MGTF3D/A All-In-One-PC with macOS",
         "image_single": "/9083100879BAB791C5A44E7493DAACD9.jpg",
         "image_list": [
             "/9083100879BAB791C5A44E7493DAACD9.jpg",
@@ -666,21 +655,21 @@
                 "values": ["Apple", "M1 GPU (7c)"],
                 "valuesDisplayOrder": [0, 302]
             }
-        }
-    },
-    {
-        "name": "MSI MAG Infinite 11TG-1415AT Gaming PC Tower-PC with Windows 10",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
+        },
+        "manufacturer": "Apple",
         "price": 1188,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1619003570,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (7c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "MSI MAG Infinite 11TG-1415AT Gaming PC Tower-PC with Windows 10",
         "image_single": "/90892829BAEF8D56B36341C1AE1A98DA.jpg",
         "image_list": [
             "/90892829BAEF8D56B36341C1AE1A98DA.jpg",
@@ -841,21 +830,21 @@
                 "values": ["Intel Core i7", "Core™ i7-11700F"],
                 "valuesDisplayOrder": [0, 623]
             }
-        }
-    },
-    {
-        "name": "Fujitsu ESPRIMO D9011-C70MIN mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Fujitsu",
-        "manufacturer_picture": "/media/images/manu/list/10499A7E98583049043A79B95DEC5.jpg",
-        "price": 993,
+        },
+        "manufacturer": "MSI",
+        "price": 1188,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:32",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 750 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1648632509,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Fujitsu ESPRIMO D9011-C70MIN mini-PC-PC with Windows 10 Pro",
         "image_single": "/90848758D10F7213BD4C47F7B334BBF7.jpg",
         "image_list": [
             "/90848758D10F7213BD4C47F7B334BBF7.jpg",
@@ -1018,21 +1007,21 @@
                 "values": ["Wi-Fi 6E (802.11ax)"],
                 "valuesDisplayOrder": [5]
             }
-        }
-    },
-    {
-        "name": "MSI Desktop PRO DP21 11M-013AT Tower-PC with Windows 10 Pro",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 723,
+        },
+        "manufacturer": "Fujitsu",
+        "price": 993,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 750</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1635160550,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 750 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "MSI Desktop PRO DP21 11M-013AT Tower-PC with Windows 10 Pro",
         "image_single": "/9084911809E22878814D454F8C76F1B7.jpg",
         "image_list": [
             "/9084911809E22878814D454F8C76F1B7.jpg",
@@ -1174,21 +1163,21 @@
                 "values": ["Intel", "Intel® UHD Graphics 750"],
                 "valuesDisplayOrder": [0, 275]
             }
-        }
-    },
-    {
-        "name": "Captiva Ultimate Gaming I65-845 Tower-PC with Windows 11 Home",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 3024,
+        },
+        "manufacturer": "MSI",
+        "price": 723,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i9-10900KF 10x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1635776455,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 750</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 14
+    },
+    {
+        "name": "Captiva Ultimate Gaming I65-845 Tower-PC with Windows 11 Home",
         "image_single": "/9084946085C9A0A046604BCEAF86E2CC.jpg",
         "image_list": [
             "/9084946085C9A0A046604BCEAF86E2CC.jpg",
@@ -1339,21 +1328,21 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I59-648 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1080,
+        "price": 3024,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:30",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1636032583,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i9-10900KF 10x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Captiva Highend Gaming I59-648 Tower-PC without OS",
         "image_single": "/9084802810E87A1BCBB240BB81F5B9A8.jpg",
         "image_list": [
             "/9084802810E87A1BCBB240BB81F5B9A8.jpg",
@@ -1492,21 +1481,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060 Ti"],
                 "valuesDisplayOrder": [0, 454]
             }
-        }
-    },
-    {
-        "name": "MSI Trident X 11TE-1638AT mini-PC-PC with Windows 10",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 2808,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1080,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 10:45:23",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700K 8x 3.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1633936559,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "MSI Trident X 11TE-1638AT mini-PC-PC with Windows 10",
         "image_single": "/9083612158331A2F8623463EB43BE481.jpg",
         "image_list": [
             "/9083612158331A2F8623463EB43BE481.jpg",
@@ -1681,21 +1670,21 @@
                 "values": ["Wi-Fi 6E (802.11ax)"],
                 "valuesDisplayOrder": [5]
             }
-        }
-    },
-    {
-        "name": "Lenovo IdeaCentre Gaming 5 14ACN6 90RW00C4GE Tower-PC with Windows 11 Home",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 1080,
+        },
+        "manufacturer": "MSI",
+        "price": 2808,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 09:45:51",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5700G 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1626081256,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700K 8x 3.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Lenovo IdeaCentre Gaming 5 14ACN6 90RW00C4GE Tower-PC with Windows 11 Home",
         "image_single": "/908508331BA8E9AD262046E6B4B33452.jpg",
         "image_list": [
             "/908508331BA8E9AD262046E6B4B33452.jpg",
@@ -1855,21 +1844,21 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
-    },
-    {
-        "name": "Lenovo IdeaCentre AIO 3 24ITL6 F0G00062GE All-In-One-PC with Windows 11 Home",
+        },
         "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 583,
+        "price": 1080,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:30:27",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">60.5cm (23.8\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-1115G4 2x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1638283901,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5700G 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Lenovo IdeaCentre AIO 3 24ITL6 F0G00062GE All-In-One-PC with Windows 11 Home",
         "image_single": "/90846891AF0084D2DA6146AFAE6E87C8.jpg",
         "image_list": [
             "/90846891AF0084D2DA6146AFAE6E87C8.jpg",
@@ -2026,22 +2015,22 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
-    },
-    {
-        "name": "Intel NUC Barebone RNUC11PAHi50000 mini-PC-PC without OS",
-        "manufacturer": "Intel",
-        "manufacturer_picture": "/media/images/manu/list/100514936D313C19645429AFF0BD6.jpg",
-        "price": 421,
+        },
+        "manufacturer": "Lenovo",
+        "price": 583,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:43",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Core™ i5-1135G7 4x 2.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">0 GB RAM</span> </li><li><span style=\"white-space:nowrap;\">5x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 11,
-        "image_single": "https://img.computerunivers.net",
+        "timestamp_created": 1632999542,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">60.5cm (23.8\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-1115G4 2x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Intel NUC Barebone RNUC11PAHi50000 mini-PC-PC without OS",
+        "image_single": "",
         "image_list": [],
         "details": {
             "optischesLaufwerk": {
@@ -2119,21 +2108,21 @@
                 "values": ["Intel Core i5", "Core™ i5-1135G7"],
                 "valuesDisplayOrder": [0, 503]
             }
-        }
-    },
-    {
-        "name": "Dell OptiPlex 3090 UFF F75MY mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 561,
+        },
+        "manufacturer": "Intel",
+        "price": 421,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:33",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-1145G7 4x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® Iris Xe Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 11,
+        "timestamp_created": 1645782911,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Core™ i5-1135G7 4x 2.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">0 GB RAM</span> </li><li><span style=\"white-space:nowrap;\">5x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 11
+    },
+    {
+        "name": "Dell OptiPlex 3090 UFF F75MY mini-PC-PC with Windows 10 Pro",
         "image_single": "/90833822EA88FA74DE974D738A7BA744.jpg",
         "image_list": [
             "/90833822EA88FA74DE974D738A7BA744.jpg",
@@ -2303,21 +2292,21 @@
                 "values": ["Intel Core i5", "Core™ i5-1145G7"],
                 "valuesDisplayOrder": [0, 509]
             }
-        }
-    },
-    {
-        "name": "Captiva Advanced Gaming I58-655 Tower-PC without OS",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1080,
+        },
+        "manufacturer": "Dell",
+        "price": 561,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1622450602,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-1145G7 4x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® Iris Xe Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 11
+    },
+    {
+        "name": "Captiva Advanced Gaming I58-655 Tower-PC without OS",
         "image_single": "/90856691EF0BB42BF9E0418AB5B436ED.jpg",
         "image_list": [
             "/90856691EF0BB42BF9E0418AB5B436ED.jpg",
@@ -2461,21 +2450,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060 Ti"],
                 "valuesDisplayOrder": [0, 454]
             }
-        }
-    },
-    {
-        "name": "Lenovo ThinkStation P350 SFF 30E5002FGE mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 993,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1080,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:42",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 750 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1643301883,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Lenovo ThinkStation P350 SFF 30E5002FGE mini-PC-PC with Windows 10 Pro",
         "image_single": "/908519315053C2756E2D405FAAF9084E.jpg",
         "image_list": [
             "/908519315053C2756E2D405FAAF9084E.jpg",
@@ -2630,21 +2619,21 @@
                 "values": ["Intel", "Intel® UHD Graphics 750"],
                 "valuesDisplayOrder": [0, 275]
             }
-        }
-    },
-    {
-        "name": "Hyrican Striker 6752 mini-PC-PC with Windows 11 Home",
-        "manufacturer": "Hyrican",
-        "manufacturer_picture": "/media/images/manu/list/13959E8724C1A32434C32ACE95C20.jpg",
-        "price": 1728,
+        },
+        "manufacturer": "Lenovo",
+        "price": 993,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 10:45:38",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700F 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">960 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1639485983,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 750 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Hyrican Striker 6752 mini-PC-PC with Windows 11 Home",
         "image_single": "/90851183D7971C8BCEF948E1BAC4C31C.jpg",
         "image_list": [
             "/90851183D7971C8BCEF948E1BAC4C31C.jpg",
@@ -2821,21 +2810,21 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
-    },
-    {
-        "name": "Captiva Advanced Gaming I65-764 Tower-PC with Windows 11 Home",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1620,
+        },
+        "manufacturer": "Hyrican",
+        "price": 1728,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:34",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-12600KF 10x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">500 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1638787206,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700F 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">960 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Captiva Advanced Gaming I65-764 Tower-PC with Windows 11 Home",
         "image_single": "/908502151672E9D3F51F4BF6B58D88E5.jpg",
         "image_list": [
             "/908502151672E9D3F51F4BF6B58D88E5.jpg",
@@ -2986,21 +2975,21 @@
                 "values": ["Intel Core i5", "Core™ i5-12600KF"],
                 "valuesDisplayOrder": [0, 515]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming R62-646 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 2700,
+        "price": 1620,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/16/2022 21:00:14",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 Ti 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">7x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1637588100,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-12600KF 10x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">500 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Captiva Highend Gaming R62-646 Tower-PC without OS",
         "image_single": "/90848001C170A14BB5D6477D8480CBBA.jpg",
         "image_list": [
             "/90848001C170A14BB5D6477D8480CBBA.jpg",
@@ -3147,21 +3136,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3080 Ti"],
                 "valuesDisplayOrder": [0, 458]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming  R59-814 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1404,
+        "price": 2700,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:07",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 5600X 6x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1633936276,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 Ti 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">7x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Captiva Highend Gaming  R59-814 Tower-PC without OS",
         "image_single": "/908479965BAC98840CB6446B856F172B.jpg",
         "image_list": [
             "/908479965BAC98840CB6446B856F172B.jpg",
@@ -3302,21 +3291,21 @@
                 "values": ["AMD Ryzen™ 5", "Ryzen™ 5 5600X"],
                 "valuesDisplayOrder": [0, 193]
             }
-        }
-    },
-    {
-        "name": "Lenovo Legion T5 26AMR5 90RC00CWGE Tower-PC with Windows 10",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 1296,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1404,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/16/2022 03:31:59",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800 8x 3.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1633936272,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 5600X 6x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Lenovo Legion T5 26AMR5 90RC00CWGE Tower-PC with Windows 10",
         "image_single": "/908307270AD0FEBE72434BD9BC2F59D9.jpg",
         "image_list": [
             "/908307270AD0FEBE72434BD9BC2F59D9.jpg",
@@ -3478,21 +3467,21 @@
                 "values": ["AMD Ryzen™ 7", "Ryzen™ 7 5800"],
                 "valuesDisplayOrder": [0, 203]
             }
-        }
-    },
-    {
-        "name": "Apple Mac mini MGNT3D/A-Z12N003 mini-PC-PC with macOS",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1728,
+        },
+        "manufacturer": "Lenovo",
+        "price": 1296,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 09:30:09",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 10,
+        "timestamp_created": 1618819654,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800 8x 3.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Apple Mac mini MGNT3D/A-Z12N003 mini-PC-PC with macOS",
         "image_single": "/90820984E3E7837176FF430390F31672.jpg",
         "image_list": [
             "/90820984E3E7837176FF430390F31672.jpg",
@@ -3626,21 +3615,21 @@
                 "values": ["Apple", "M1 GPU (8c)"],
                 "valuesDisplayOrder": [0, 303]
             }
-        }
-    },
-    {
-        "name": "Dell OptiPlex 7780 G7HHX All-In-One-PC with Windows 10 Pro",
-        "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 1512,
+        },
+        "manufacturer": "Apple",
+        "price": 1728,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:15:44",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 9,
+        "timestamp_created": 1606218282,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 10
+    },
+    {
+        "name": "Dell OptiPlex 7780 G7HHX All-In-One-PC with Windows 10 Pro",
         "image_single": "/90857956A0D2697D063C4F0586A0EC1D.jpg",
         "image_list": [
             "/90857956A0D2697D063C4F0586A0EC1D.jpg",
@@ -3799,21 +3788,21 @@
                 "values": ["Intel Core i7", "Core™ i7-10700"],
                 "valuesDisplayOrder": [0, 615]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I57-471 Tower-PC without OS",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 2808,
+        },
+        "manufacturer": "Dell",
+        "price": 1512,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700KF 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 9,
+        "timestamp_created": 1643969902,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 9
+    },
+    {
+        "name": "Captiva Highend Gaming I57-471 Tower-PC without OS",
         "image_single": "/90848016E7F73527CE3342B6BC4EC54F.jpg",
         "image_list": [
             "/90848016E7F73527CE3342B6BC4EC54F.jpg",
@@ -3955,21 +3944,21 @@
                 "values": ["24.0 GB"],
                 "valuesDisplayOrder": [44]
             }
-        }
-    },
-    {
-        "name": "Lenovo IdeaCentre AIO 3 27ITL6 F0FW003KGE All-In-One-PC with Windows 10",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 626,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 2808,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-1115G4 2x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 9,
+        "timestamp_created": 1633936406,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700KF 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 9
+    },
+    {
+        "name": "Lenovo IdeaCentre AIO 3 27ITL6 F0FW003KGE All-In-One-PC with Windows 10",
         "image_single": "/9084689375C58EED96E546429D2A2969.jpg",
         "image_list": [
             "/9084689375C58EED96E546429D2A2969.jpg",
@@ -4135,21 +4124,21 @@
                 "values": ["Intel Core i3", "Core™ i3-1115G4"],
                 "valuesDisplayOrder": [0, 398]
             }
-        }
-    },
-    {
-        "name": "Lenovo ThinkCentre M80q Tiny 11DN0003GE mini-PC-PC with Windows 10 Pro",
+        },
         "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 777,
+        "price": 626,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:33:17",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10500T 6x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 9,
+        "timestamp_created": 1632999541,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-1115G4 2x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 9
+    },
+    {
+        "name": "Lenovo ThinkCentre M80q Tiny 11DN0003GE mini-PC-PC with Windows 10 Pro",
         "image_single": "/908282779F527F2AAEA6481EA9B32CA0.jpg",
         "image_list": [
             "/908282779F527F2AAEA6481EA9B32CA0.jpg",
@@ -4310,21 +4299,21 @@
                 "values": ["Intel Core i5", "Core™ i5-10500T"],
                 "valuesDisplayOrder": [0, 655]
             }
-        }
-    },
-    {
-        "name": "Apple Mac mini MGNT3D/A-Z12N004 mini-PC-PC with macOS",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1296,
+        },
+        "manufacturer": "Lenovo",
+        "price": 777,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:33:05",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 9,
+        "timestamp_created": 1615459111,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10500T 6x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 9
+    },
+    {
+        "name": "Apple Mac mini MGNT3D/A-Z12N004 mini-PC-PC with macOS",
         "image_single": "/90820981A29F6AD3AE6A4C98B071A25B.jpg",
         "image_list": [
             "/90820981A29F6AD3AE6A4C98B071A25B.jpg",
@@ -4458,21 +4447,21 @@
                 "values": ["Apple", "M1 GPU (8c)"],
                 "valuesDisplayOrder": [0, 303]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I65-589 Tower-PC without OS",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1728,
+        },
+        "manufacturer": "Apple",
+        "price": 1296,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:47",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700KF</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1606217848,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 9
+    },
+    {
+        "name": "Captiva Highend Gaming I65-589 Tower-PC without OS",
         "image_single": "/90861034FB7D1BEB8CE244BE8D55737C.jpg",
         "image_list": [
             "/90861034FB7D1BEB8CE244BE8D55737C.jpg",
@@ -4544,22 +4533,22 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3070 Ti"],
                 "valuesDisplayOrder": [0, 456]
             }
-        }
-    },
-    {
-        "name": "Acer Nitro N50-640 DG.E2VEG.00E mini-PC-PC with Windows 10",
-        "manufacturer": "Acer",
-        "manufacturer_picture": "/media/images/manu/list/10037309B50057B74466FB4835B66.jpg",
-        "price": 1188,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1728,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">6x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
-        "image_single": "https://img.computerunivers.net",
+        "timestamp_created": 1647412868,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700KF</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Acer Nitro N50-640 DG.E2VEG.00E mini-PC-PC with Windows 10",
+        "image_single": "",
         "image_list": [],
         "details": {
             "optischesLaufwerk": {
@@ -4662,21 +4651,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060 Ti"],
                 "valuesDisplayOrder": [0, 454]
             }
-        }
-    },
-    {
-        "name": "Lenovo Yoga AIO 7 27ACH6 All-In-One-PC",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 1404,
+        },
+        "manufacturer": "Acer",
+        "price": 1188,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 11:30:50",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">3840 x 2160</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1646041476,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">6x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Lenovo Yoga AIO 7 27ACH6 All-In-One-PC",
         "image_single": "/90858010402C6F69C72345BEB0371578.jpg",
         "image_list": [
             "/90858010402C6F69C72345BEB0371578.jpg",
@@ -4713,21 +4702,21 @@
                 "values": ["3840 x 2160"],
                 "valuesDisplayOrder": [602]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I66-023 Tower-PC without OS",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 2916,
+        },
+        "manufacturer": "Lenovo",
+        "price": 1404,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:33",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i9-12900KF 16x 3.20 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 Ti 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 2.0 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1643978727,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">3840 x 2160</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming I66-023 Tower-PC without OS",
         "image_single": "/908566893BEB84A2670C4CFF8D5C0A8A.jpg",
         "image_list": [
             "/908566893BEB84A2670C4CFF8D5C0A8A.jpg",
@@ -4878,21 +4867,21 @@
                 "values": ["Intel Core i9", "Core™ i9-12900KF"],
                 "valuesDisplayOrder": [0, 681]
             }
-        }
-    },
-    {
-        "name": "Captiva Power Starter I61-046 Tower-PC with Windows 11 Home",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 442,
+        "price": 2916,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:42",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400 6x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1643301473,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i9-12900KF 16x 3.20 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 Ti 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 2.0 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Power Starter I61-046 Tower-PC with Windows 11 Home",
         "image_single": "/90852025B413DBE2DF734871B8F46CC9.jpg",
         "image_list": [
             "/90852025B413DBE2DF734871B8F46CC9.jpg",
@@ -5034,21 +5023,21 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming R59-693 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 2376,
+        "price": 442,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:42",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD, </span> <span style=\"white-space:nowrap;\">2.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1639652260,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400 6x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming R59-693 Tower-PC without OS",
         "image_single": "/9085202442E3A19BCBBF4979A6D0D21E.jpg",
         "image_list": [
             "/9085202442E3A19BCBBF4979A6D0D21E.jpg",
@@ -5199,21 +5188,21 @@
                 "values": ["AMD Ryzen™ 9", "Ryzen™ 9 5900X"],
                 "valuesDisplayOrder": [0, 210]
             }
-        }
-    },
-    {
-        "name": "Lenovo ThinkStation P520c TWR 30BX00DYGE Tower-PC with Windows 10 Pro",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 2484,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 2376,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 05:17:13",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Xeon® W-2225 4x 4.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® RTX™ A4000 16 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">8x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1639651574,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD, </span> <span style=\"white-space:nowrap;\">2.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Lenovo ThinkStation P520c TWR 30BX00DYGE Tower-PC with Windows 10 Pro",
         "image_single": "/90851938B4FAB6B7E786489FA8AAF235.jpg",
         "image_list": [
             "/90851938B4FAB6B7E786489FA8AAF235.jpg",
@@ -5371,21 +5360,21 @@
                 "values": ["NVIDIA®", "NVIDIA® RTX™ A4000"],
                 "valuesDisplayOrder": [0, 670]
             }
-        }
-    },
-    {
-        "name": "Lenovo ThinkCentre M75q Gen 2 11JN000EGE mini-PC-PC with Windows 10 Pro",
+        },
         "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 572,
+        "price": 2484,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:42",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 Pro 5650GE 6x 3.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1639486236,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Xeon® W-2225 4x 4.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® RTX™ A4000 16 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">8x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Lenovo ThinkCentre M75q Gen 2 11JN000EGE mini-PC-PC with Windows 10 Pro",
         "image_single": "/9085189264500D353A3043B5911B6586.jpg",
         "image_list": [
             "/9085189264500D353A3043B5911B6586.jpg",
@@ -5556,21 +5545,21 @@
                 "values": ["AMD", "Ryzen™ 5 Pro 5650GE"],
                 "valuesDisplayOrder": [0, 180]
             }
-        }
-    },
-    {
-        "name": "Dell Precision 3650T KXCD8 Tower-PC with Windows 10 Pro",
-        "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 1080,
+        },
+        "manufacturer": "Lenovo",
+        "price": 572,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:42",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700K 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® Quadro P2000 5.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1639485867,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 Pro 5650GE 6x 3.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Dell Precision 3650T KXCD8 Tower-PC with Windows 10 Pro",
         "image_single": "/908513104A9190D8D85940C6BC3921F6.jpg",
         "image_list": [
             "/908513104A9190D8D85940C6BC3921F6.jpg",
@@ -5719,21 +5708,21 @@
                 "values": ["5.10 GHz"],
                 "valuesDisplayOrder": [71]
             }
-        }
-    },
-    {
-        "name": "Dell Precision 3650T KY0TW mini-PC-PC with Windows 10 Pro",
+        },
         "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 939,
+        "price": 1080,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 13:30:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1638964138,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700K 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® Quadro P2000 5.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Dell Precision 3650T KY0TW mini-PC-PC with Windows 10 Pro",
         "image_single": "/908513075D49A70D6E2240A8986BF698.jpg",
         "image_list": [
             "/908513075D49A70D6E2240A8986BF698.jpg",
@@ -5877,21 +5866,21 @@
                 "values": ["Intel Core i7", "Core™ i7-10700"],
                 "valuesDisplayOrder": [0, 615]
             }
-        }
-    },
-    {
-        "name": "Dell Precision 3240 CFF GK5DP mini-PC-PC with Windows 10 Pro",
+        },
         "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 691,
+        "price": 939,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:30:31",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10500 6x 3.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1638964140,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Dell Precision 3240 CFF GK5DP mini-PC-PC with Windows 10 Pro",
         "image_single": "/9085130115359A243C914B56BB103330.jpg",
         "image_list": [
             "/9085130115359A243C914B56BB103330.jpg",
@@ -6050,21 +6039,21 @@
                 "values": ["Intel Core i5", "Core™ i5-10500"],
                 "valuesDisplayOrder": [0, 653]
             }
-        }
-    },
-    {
-        "name": "Lenovo IdeaCentre 3 07ADA05 90MV00EMGE Tower-PC with Windows 11 Home",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 442,
+        },
+        "manufacturer": "Dell",
+        "price": 691,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 09:45:51",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 3500U 4x 2.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ Vega 8 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1638964147,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10500 6x 3.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Lenovo IdeaCentre 3 07ADA05 90MV00EMGE Tower-PC with Windows 11 Home",
         "image_single": "/90850816BD7181F098854521ADE64B3C.jpg",
         "image_list": [
             "/90850816BD7181F098854521ADE64B3C.jpg",
@@ -6217,21 +6206,21 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I65-921 Tower-PC with Windows 11 Home",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 2160,
+        },
+        "manufacturer": "Lenovo",
+        "price": 442,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:14",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-12700KF 12x 3.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1638280985,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 3500U 4x 2.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ Vega 8 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming I65-921 Tower-PC with Windows 11 Home",
         "image_single": "/908502286D304F034CC541539F7817BF.jpg",
         "image_list": [
             "/908502286D304F034CC541539F7817BF.jpg",
@@ -6387,21 +6376,21 @@
                 "values": ["Intel Core i7", "Core™ i7-12700KF"],
                 "valuesDisplayOrder": [0, 628]
             }
-        }
-    },
-    {
-        "name": "Captiva Advanced Gaming I65-766 Tower-PC with Windows 11 Home",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1620,
+        "price": 2160,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:14",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-12600KF 10x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1637589918,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-12700KF 12x 3.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Advanced Gaming I65-766 Tower-PC with Windows 11 Home",
         "image_single": "/908502167EE30432AD6249E99B71EE84.jpg",
         "image_list": [
             "/908502167EE30432AD6249E99B71EE84.jpg",
@@ -6553,21 +6542,21 @@
                 "values": ["Intel Core i5", "Core™ i5-12600KF"],
                 "valuesDisplayOrder": [0, 515]
             }
-        }
-    },
-    {
-        "name": "Acer Veriton VN4680G DT.VUSEG.009 mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Acer",
-        "manufacturer_picture": "/media/images/manu/list/10037309B50057B74466FB4835B66.jpg",
-        "price": 464,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1620,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:32",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400T 6x 1.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 730 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1637588099,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-12600KF 10x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Acer Veriton VN4680G DT.VUSEG.009 mini-PC-PC with Windows 10 Pro",
         "image_single": "/90848731AA23F16FADFD414CBF42F5EB.jpg",
         "image_list": [
             "/90848731AA23F16FADFD414CBF42F5EB.jpg",
@@ -6730,21 +6719,21 @@
                 "values": ["Intel Core i5", "Core™ i5-11400T"],
                 "valuesDisplayOrder": [0, 506]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming R62-709 Tower-PC without OS",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1836,
+        },
+        "manufacturer": "Acer",
+        "price": 464,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:07",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">7x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1634914233,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400T 6x 1.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 730 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming R62-709 Tower-PC without OS",
         "image_single": "/90848036C22E9B09D25D4804801C9496.jpg",
         "image_list": [
             "/90848036C22E9B09D25D4804801C9496.jpg",
@@ -6893,21 +6882,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3070 Ti"],
                 "valuesDisplayOrder": [0, 456]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming  R59-434 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1404,
+        "price": 1836,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:07",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1633936995,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">7x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming  R59-434 Tower-PC without OS",
         "image_single": "/90848031082A8D1031CD40D6B9FF0F0A.jpg",
         "image_list": [
             "/90848031082A8D1031CD40D6B9FF0F0A.jpg",
@@ -7048,21 +7037,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060 Ti"],
                 "valuesDisplayOrder": [0, 454]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I64-647 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1188,
+        "price": 1404,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:07",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400F 6x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1633936557,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming I64-647 Tower-PC without OS",
         "image_single": "/90848029D0E3D2C1EFB04538A18EF4CB.jpg",
         "image_list": [
             "/90848029D0E3D2C1EFB04538A18EF4CB.jpg",
@@ -7203,21 +7192,21 @@
                 "values": ["Intel Core i5", "Core™ i5-11400F"],
                 "valuesDisplayOrder": [0, 505]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming I62-731 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 2268,
+        "price": 1188,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700KF 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 Ti 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1633936559,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-11400F 6x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming I62-731 Tower-PC without OS",
         "image_single": "/90848012144E0D7C23854AC99818A242.jpg",
         "image_list": [
             "/90848012144E0D7C23854AC99818A242.jpg",
@@ -7369,21 +7358,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3080 Ti"],
                 "valuesDisplayOrder": [0, 458]
             }
-        }
-    },
-    {
-        "name": "Captiva Highend Gaming  I59-439 Tower-PC without OS",
+        },
         "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1296,
+        "price": 2268,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:07",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700F 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">7x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1633936413,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700KF 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 Ti 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Captiva Highend Gaming  I59-439 Tower-PC without OS",
         "image_single": "/90847994F0539A7BB4F445D9A0E13D4B.jpg",
         "image_list": [
             "/90847994F0539A7BB4F445D9A0E13D4B.jpg",
@@ -7529,21 +7518,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060 Ti"],
                 "valuesDisplayOrder": [0, 454]
             }
-        }
-    },
-    {
-        "name": "Lenovo IdeaCentre AIO 3 27ALC6 F0FY001UGE All-In-One-PC with Windows 10",
-        "manufacturer": "Lenovo",
-        "manufacturer_picture": "/media/images/manu/list/12286A36BD60AEE64454AA9CFE965.jpg",
-        "price": 626,
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1296,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 3 5300U 4x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1633936272,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-10700F 8x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">7x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Lenovo IdeaCentre AIO 3 27ALC6 F0FY001UGE All-In-One-PC with Windows 10",
         "image_single": "/9084689277BE3E5F0A79428D87E4EB4D.jpg",
         "image_list": [
             "/9084689277BE3E5F0A79428D87E4EB4D.jpg",
@@ -7706,21 +7695,21 @@
                 "values": ["AMD Ryzen™ 3", "Ryzen™ 3 5300U"],
                 "valuesDisplayOrder": [0, 145]
             }
-        }
-    },
-    {
-        "name": "HP OMEN GT12-1401ng 4E4Q8EA Tower-PC with Windows 10",
-        "manufacturer": "HP",
-        "manufacturer_picture": "/media/images/manu/list/10049FC6259C14CA74EEE957E6F87.jpg",
-        "price": 1620,
+        },
+        "manufacturer": "Lenovo",
+        "price": 626,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1632999542,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">68.6 cm (27.0\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 3 5300U 4x 2.60 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD, </span> <span style=\"white-space:nowrap;\">DVD Writer</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "HP OMEN GT12-1401ng 4E4Q8EA Tower-PC with Windows 10",
         "image_single": "/908468906BEEC2C771C44BCE98F17DE4.jpg",
         "image_list": [
             "/908468906BEEC2C771C44BCE98F17DE4.jpg",
@@ -7880,21 +7869,21 @@
                 "values": ["AMD Ryzen™ 7", "Ryzen™ 7 5800X"],
                 "valuesDisplayOrder": [0, 205]
             }
-        }
-    },
-    {
-        "name": "ASUS VIVO Mini PN41-BC033ZV mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Asus",
-        "manufacturer_picture": "/media/images/manu/list/101133FC904CE04AC4E28A4EAD791.jpg",
-        "price": 302,
+        },
+        "manufacturer": "HP",
+        "price": 1620,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 13:30:36",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Celeron® N5100 4x 1.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">4 GB RAM, </span> <span style=\"white-space:nowrap;\">128 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1632999533,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "ASUS VIVO Mini PN41-BC033ZV mini-PC-PC with Windows 10 Pro",
         "image_single": "/908448979C13795FC76349479EF5A8F8.jpg",
         "image_list": [
             "/908448979C13795FC76349479EF5A8F8.jpg",
@@ -8049,21 +8038,21 @@
                 "values": ["Intel Celeron", "Celeron® N5100"],
                 "valuesDisplayOrder": [0, 286]
             }
-        }
-    },
-    {
-        "name": "ASUS VIVO PB62-B3015MH mini-PC-PC without OS",
+        },
         "manufacturer": "Asus",
-        "manufacturer_picture": "/media/images/manu/list/101133FC904CE04AC4E28A4EAD791.jpg",
-        "price": 496,
+        "price": 302,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:38",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-10105 4x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1630671975,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Celeron® N5100 4x 1.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">4 GB RAM, </span> <span style=\"white-space:nowrap;\">128 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "ASUS VIVO PB62-B3015MH mini-PC-PC without OS",
         "image_single": "/90844883C55B77CDAADA4EFD8B326A22.jpg",
         "image_list": [
             "/90844883C55B77CDAADA4EFD8B326A22.jpg",
@@ -8223,21 +8212,21 @@
                 "values": ["Intel Core i3", "Core™ i3-10105"],
                 "valuesDisplayOrder": [0, 387]
             }
-        }
-    },
-    {
-        "name": "Acer Chromebox CXI4 DT.Z1NEG.008 mini-PC-PC mit Chrome OS",
-        "manufacturer": "Acer",
-        "manufacturer_picture": "/media/images/manu/list/10037309B50057B74466FB4835B66.jpg",
-        "price": 345,
+        },
+        "manufacturer": "Asus",
+        "price": 496,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 15:00:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Chrome OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-10110U 2x 2.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">64 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 2.0 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1630670107,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-10105 4x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Acer Chromebox CXI4 DT.Z1NEG.008 mini-PC-PC mit Chrome OS",
         "image_single": "/908444818876A3698C8E4F16B0CF5364.jpg",
         "image_list": [
             "/908444818876A3698C8E4F16B0CF5364.jpg",
@@ -8387,21 +8376,21 @@
                 "values": ["1", "1x USB 2.0 Gen1 Typ C"],
                 "valuesDisplayOrder": [0, 4]
             }
-        }
-    },
-    {
-        "name": "Acer ConceptD CT300-52A IC DT.C09EG.002 Tower-PC with Windows 10 Pro",
+        },
         "manufacturer": "Acer",
-        "manufacturer_picture": "/media/images/manu/list/10037309B50057B74466FB4835B66.jpg",
-        "price": 1944,
+        "price": 345,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 03:34:00",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">2.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1630396050,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Chrome OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i3-10110U 2x 2.10 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">64 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 2.0 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Acer ConceptD CT300-52A IC DT.C09EG.002 Tower-PC with Windows 10 Pro",
         "image_single": "/9084447792C604D70952403D838811FB.jpg",
         "image_list": [
             "/9084447792C604D70952403D838811FB.jpg",
@@ -8562,21 +8551,21 @@
                 "values": ["Intel Core i7", "Core™ i7-11700"],
                 "valuesDisplayOrder": [0, 622]
             }
-        }
-    },
-    {
-        "name": "MSI MEG Infinite X 11TE-1024AT mini-PC-PC with Windows 10",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 3132,
+        },
+        "manufacturer": "Acer",
+        "price": 1944,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:15:36",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i9-11900KF 8x 3.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD, </span> <span style=\"white-space:nowrap;\">2.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">1x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1630396043,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">2.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "MSI MEG Infinite X 11TE-1024AT mini-PC-PC with Windows 10",
         "image_single": "/9083611904162BCA68B74F70ABDCFC2B.jpg",
         "image_list": [
             "/9083611904162BCA68B74F70ABDCFC2B.jpg",
@@ -8741,21 +8730,21 @@
                 "values": ["Intel Core i9", "Core™ i9-11900KF"],
                 "valuesDisplayOrder": [0, 678]
             }
-        }
-    },
-    {
-        "name": "Dell OptiPlex 3080-85PCF mini-PC-PC with Windows 10 Pro",
-        "manufacturer": "Dell",
-        "manufacturer_picture": "/media/images/manu/list/13409B261396D2B0043CE9860F531.jpg",
-        "price": 561,
+        },
+        "manufacturer": "MSI",
+        "price": 3132,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 11:30:30",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10500T 6x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1626080912,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i9-11900KF 8x 3.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3080 10.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">2 TB SSD, </span> <span style=\"white-space:nowrap;\">2.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">1x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Dell OptiPlex 3080-85PCF mini-PC-PC with Windows 10 Pro",
         "image_single": "/9083526597061140A4724B8CA75F2FBA.jpg",
         "image_list": [
             "/9083526597061140A4724B8CA75F2FBA.jpg",
@@ -8922,21 +8911,21 @@
                 "values": ["Intel Core i5", "Core™ i5-10500T"],
                 "valuesDisplayOrder": [0, 655]
             }
-        }
-    },
-    {
-        "name": "Apple iMac 24'' Retina MGPK3D/A-Z12W005 All-In-One-PC with macOS",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1836,
+        },
+        "manufacturer": "Dell",
+        "price": 561,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 15:00:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard mit TouchID</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1625048877,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">mini-PC-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10500T 6x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® UHD Graphics 630 Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">4x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Apple iMac 24'' Retina MGPK3D/A-Z12W005 All-In-One-PC with macOS",
         "image_single": "/90831012EA842366759B40328AB73722.jpg",
         "image_list": [
             "/90831012EA842366759B40328AB73722.jpg",
@@ -9093,21 +9082,21 @@
                 "values": ["4480 x 2520"],
                 "valuesDisplayOrder": [610]
             }
-        }
-    },
-    {
-        "name": "Apple iMac 24'' Retina MGPJ3D/A-Z12U004 All-In-One-PC with macOS",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1728,
+        "price": 1836,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 10:45:21",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard mit TouchID</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1622185422,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard mit TouchID</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Apple iMac 24'' Retina MGPJ3D/A-Z12U004 All-In-One-PC with macOS",
         "image_single": "/9083101043220B6967964903B0329FE4.jpg",
         "image_list": [
             "/9083101043220B6967964903B0329FE4.jpg",
@@ -9264,21 +9253,21 @@
                 "values": ["4480 x 2520"],
                 "valuesDisplayOrder": [610]
             }
-        }
-    },
-    {
-        "name": "Apple iMac 24'' Retina MGPC3D/A-Z12Q003 All-In-One-PC with macOS",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1512,
+        "price": 1728,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:15:46",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard mit TouchID</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1622185429,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard mit TouchID</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "Apple iMac 24'' Retina MGPC3D/A-Z12Q003 All-In-One-PC with macOS",
         "image_single": "/9083100879BAB791C5A44E7493DAACD9.jpg",
         "image_list": [
             "/9083100879BAB791C5A44E7493DAACD9.jpg",
@@ -9436,21 +9425,21 @@
                 "values": ["4480 x 2520"],
                 "valuesDisplayOrder": [610]
             }
-        }
-    },
-    {
-        "name": "MSI MAG Infinite 11TC-1222AT Tower-PC with Windows 10",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 1836,
+        },
+        "manufacturer": "Apple",
+        "price": 1512,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:30:16",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen1</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1622185435,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">macOS 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">61.0 cm (24.0\") Display, </span> <span style=\"white-space:nowrap;\">4480 x 2520</span> </li><li><span style=\"white-space:nowrap;\">Apple M1 (8c) 8x</span> </li><li><span style=\"white-space:nowrap;\">M1 GPU (8c) Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x Thunderbolt 3, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C</span> </li><li><span style=\"white-space:nowrap;\">incl. Magic Mouse 2, Magic Keyboard mit TouchID</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "MSI MAG Infinite 11TC-1222AT Tower-PC with Windows 10",
         "image_single": "/9083130387B7375531D048F08A086484.jpg",
         "image_list": [
             "/9083130387B7375531D048F08A086484.jpg",
@@ -9616,21 +9605,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060"],
                 "valuesDisplayOrder": [0, 453]
             }
-        }
-    },
-    {
-        "name": "MSI Modern AM241P 11M-059AT All-In-One-PC with Windows 10 Pro",
+        },
         "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 972,
+        "price": 1836,
+        "category_single": "Desktop PCs",
         "category_list": [
             "Desktop PCs",
             "Desktop PCs & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/16/2022 03:31:57",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">60.5cm (23.8\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080, </span> <span style=\"white-space:nowrap;\">Touch</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-1135G7 4x 2.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® Iris Xe Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
+        "timestamp_created": 1619159197,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">6x USB 3.1 Gen1</span> </li></ul>",
+        "popularity": 7
+    },
+    {
+        "name": "MSI Modern AM241P 11M-059AT All-In-One-PC with Windows 10 Pro",
         "image_single": "/90829543259772632EA84D4DBA3B814D.jpg",
         "image_list": [
             "/90829543259772632EA84D4DBA3B814D.jpg",
@@ -9803,6 +9792,17 @@
                 "values": ["Intel Core i5", "Core™ i5-1135G7"],
                 "valuesDisplayOrder": [0, 503]
             }
-        }
+        },
+        "manufacturer": "MSI",
+        "price": 972,
+        "category_single": "Desktop PCs",
+        "category_list": [
+            "Desktop PCs",
+            "Desktop PCs & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1617173944,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">All-In-One-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 Pro 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">60.5cm (23.8\") Display, </span> <span style=\"white-space:nowrap;\">1920 x 1080, </span> <span style=\"white-space:nowrap;\">Touch</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-1135G7 4x 2.40 GHz</span> </li><li><span style=\"white-space:nowrap;\">Intel® Iris Xe Shared Memory</span> </li><li><span style=\"white-space:nowrap;\">8 GB RAM, </span> <span style=\"white-space:nowrap;\">256 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
     }
 ]

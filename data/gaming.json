@@ -1,17 +1,6 @@
 [
     {
         "name": "Thrustmaster T-248 für PC, XBOX Series X/S",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 270,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 15:15:09",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Brems-/Kupplungspedal</span> </li><li><span style=\"white-space:nowrap;\">25 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Hall-Effect Sensoren, Display, Lederbezug, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 19,
         "image_single": "/90853243371DA4AD7CD742D3830579D4.jpg",
         "image_list": [
             "/90853243371DA4AD7CD742D3830579D4.jpg",
@@ -41,21 +30,21 @@
                 "values": [true],
                 "valuesDisplayOrder": [2]
             }
-        }
-    },
-    {
-        "name": "Thrustmaster T-248 Kompatibel mit PS5, PS4 und PC",
+        },
         "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
         "price": 270,
+        "category_single": "Joysticks, Gamepads, Wheels",
         "category_list": [
             "Joysticks, Gamepads, Wheels",
             "Gaming Accessories & PC Games",
             "Games & Entertainment"
         ],
-        "publish_time": "04/17/2022 05:45:32",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Brems-/Kupplungspedal</span> </li><li><span style=\"white-space:nowrap;\">25 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Hall-Effect Sensoren, Display, Lederbezug, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 19,
+        "timestamp_created": 1641552232,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Brems-/Kupplungspedal</span> </li><li><span style=\"white-space:nowrap;\">25 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Hall-Effect Sensoren, Display, Lederbezug, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
+        "popularity": 19
+    },
+    {
+        "name": "Thrustmaster T-248 Kompatibel mit PS5, PS4 und PC",
         "image_single": "/908443075A2D6CD7244943568A95D1F0.jpg",
         "image_list": [
             "/908443075A2D6CD7244943568A95D1F0.jpg",
@@ -91,21 +80,21 @@
                 "values": [true],
                 "valuesDisplayOrder": [2]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 270,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1630052433,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Brems-/Kupplungspedal</span> </li><li><span style=\"white-space:nowrap;\">25 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Hall-Effect Sensoren, Display, Lederbezug, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
+        "popularity": 19
     },
     {
         "name": "MSI MAG Infinite 11TG-1415AT Gaming PC Tower-PC with Windows 10",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 1188,
-        "category_list": [
-            "Desktop PCs",
-            "Desktop PCs & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
-        "popularity": 15,
         "image_single": "/90892829BAEF8D56B36341C1AE1A98DA.jpg",
         "image_list": [
             "/90892829BAEF8D56B36341C1AE1A98DA.jpg",
@@ -266,21 +255,21 @@
                 "values": ["Intel Core i7", "Core™ i7-11700F"],
                 "valuesDisplayOrder": [0, 623]
             }
-        }
+        },
+        "manufacturer": "MSI",
+        "price": 1188,
+        "category_single": "Desktop PCs",
+        "category_list": [
+            "Desktop PCs",
+            "Desktop PCs & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1648632509,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
+        "popularity": 15
     },
     {
         "name": "Nintendo Switch (OLED-Modell) weiss",
-        "manufacturer": "Nintendo",
-        "manufacturer_picture": "/media/images/manu/list/102824BF3BF7A2D2A4404B1C360A0.jpg",
-        "price": 356,
-        "category_list": [
-            "Nintendo Switch Consoles",
-            "Nintendo Switch",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 12:45:22",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Console only mit 64 GB Memory</span> </li><li><span>with Joy-Con Set (2x white), Switch console, Switch Station (withLAN) HDMI cable</span> </li></ul>",
-        "popularity": 15,
         "image_single": "/9083664547575D71AA604D8C95A9B620.jpg",
         "image_list": ["/9083664547575D71AA604D8C95A9B620.jpg"],
         "details": {
@@ -294,21 +283,21 @@
                 "values": ["64 GB"],
                 "valuesDisplayOrder": [96]
             }
-        }
+        },
+        "manufacturer": "Nintendo",
+        "price": 356,
+        "category_single": "Nintendo Switch Consoles",
+        "category_list": [
+            "Nintendo Switch Consoles",
+            "Nintendo Switch",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1626448957,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Console only mit 64 GB Memory</span> </li><li><span>with Joy-Con Set (2x white), Switch console, Switch Station (withLAN) HDMI cable</span> </li></ul>",
+        "popularity": 15
     },
     {
         "name": "Thrustmaster T.Flight Hotas 4 (Playstation, PC)",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 54,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 14:15:06",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Controller for PC, Playstation 4</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">separater Schubregler</span> </li><li><span style=\"white-space:nowrap;\">12 Tasten, </span> <span style=\"white-space:nowrap;\">1 Coolie Hat</span> </li></ul>",
-        "popularity": 15,
         "image_single": "/907054116269E1E2D8B341179BE21CBC.jpg",
         "image_list": [
             "/907054116269E1E2D8B341179BE21CBC.jpg",
@@ -342,21 +331,21 @@
                 "values": ["Controller"],
                 "valuesDisplayOrder": [2]
             }
-        }
-    },
-    {
-        "name": "Thrustmaster TH8A Shifter Add-On (PC, Xbox One,PS3 ,PS4)",
+        },
         "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 162,
+        "price": 54,
+        "category_single": "Joysticks, Gamepads, Wheels",
         "category_list": [
             "Joysticks, Gamepads, Wheels",
             "Gaming Accessories & PC Games",
             "Games & Entertainment"
         ],
-        "publish_time": "04/17/2022 09:45:26",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel Attachment for PC, PlayStation 3, Playstation 4, Xbox One</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">mit Schalthebel</span> </li><li><span>Hall-Effect Sensoren, Vollmetall-Replika, wechselbare Schaltplatten (Sequenziell / H-Schaltung)</span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1502174920,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Controller for PC, Playstation 4</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">separater Schubregler</span> </li><li><span style=\"white-space:nowrap;\">12 Tasten, </span> <span style=\"white-space:nowrap;\">1 Coolie Hat</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Thrustmaster TH8A Shifter Add-On (PC, Xbox One,PS3 ,PS4)",
         "image_single": "/9056519074515B08F626468594ED00A1.jpg",
         "image_list": [
             "/9056519074515B08F626468594ED00A1.jpg",
@@ -391,21 +380,21 @@
                 "values": ["Steering Wheel Attachment"],
                 "valuesDisplayOrder": [10]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 162,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1408619627,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel Attachment for PC, PlayStation 3, Playstation 4, Xbox One</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">mit Schalthebel</span> </li><li><span>Hall-Effect Sensoren, Vollmetall-Replika, wechselbare Schaltplatten (Sequenziell / H-Schaltung)</span> </li></ul>",
+        "popularity": 14
     },
     {
         "name": "ASUS ROG Flow X13 GV301QE-K6192T 13.4\" FHD R9 5900HS RTX 3050 Ti 16GB RAM 1TB SSD W10H",
-        "manufacturer": "Asus",
-        "manufacturer_picture": "/media/images/manu/list/101133FC904CE04AC4E28A4EAD791.jpg",
-        "price": 1404,
-        "category_list": [
-            "Laptops / Notebooks",
-            "Notebooks & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:26",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">34.0 cm (13.4\") Convertible-Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1200, </span> <span style=\"white-space:nowrap;\">120Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare, </span> <span style=\"white-space:nowrap;\">Touch</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HS 8x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3050 Ti 4.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 13,
         "image_single": "/9084369974CFD1B39E0D4AC49A372897.jpg",
         "image_list": [
             "/9084369974CFD1B39E0D4AC49A372897.jpg",
@@ -606,21 +595,21 @@
                 "values": ["NVIDIA", "NVIDIA® GeForce® RTX 3050 Ti"],
                 "valuesDisplayOrder": [0, 349]
             }
-        }
-    },
-    {
-        "name": "ASUS ROG Strix G15 Advantage Edition G513QY-HQ008W 15.6\" AMD R9-5900HX Radeon RX 6800M 16GB RAM 1TB SSD W11",
+        },
         "manufacturer": "Asus",
-        "manufacturer_picture": "/media/images/manu/list/101133FC904CE04AC4E28A4EAD791.jpg",
         "price": 1404,
+        "category_single": "Laptops / Notebooks",
         "category_list": [
             "Laptops / Notebooks",
             "Notebooks & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 12:45:26",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  2560 x 1440, </span> <span style=\"white-space:nowrap;\">165Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HX 8x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ RX 6800M 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1629907125,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">34.0 cm (13.4\") Convertible-Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1200, </span> <span style=\"white-space:nowrap;\">120Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare, </span> <span style=\"white-space:nowrap;\">Touch</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HS 8x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3050 Ti 4.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "ASUS ROG Strix G15 Advantage Edition G513QY-HQ008W 15.6\" AMD R9-5900HX Radeon RX 6800M 16GB RAM 1TB SSD W11",
         "image_single": "/90843205430F6590199349E69C737BF6.jpg",
         "image_list": [
             "/90843205430F6590199349E69C737BF6.jpg",
@@ -823,21 +812,21 @@
                 "values": ["Windows", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 14]
             }
-        }
+        },
+        "manufacturer": "Asus",
+        "price": 1404,
+        "category_single": "Laptops / Notebooks",
+        "category_list": [
+            "Laptops / Notebooks",
+            "Notebooks & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1629130984,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  2560 x 1440, </span> <span style=\"white-space:nowrap;\">165Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HX 8x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ RX 6800M 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 13
     },
     {
         "name": "Thrustmaster HOTAS Warthog (PC)",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 356,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 09:45:14",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">HOTAS-Joystick for PC</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">separater Schubregler</span> </li><li><span style=\"white-space:nowrap;\">55 Tasten, </span> <span style=\"white-space:nowrap;\">8 Kippschalter, 2 Coolie-Hats, 1 Drehregler</span> </li><li><span>getrennter Schubregler, Hall-Effect Sensoren, Vollmetall-Replika</span> </li></ul>",
-        "popularity": 13,
         "image_single": "/9039696130D37C97A001433686942F6C.jpg",
         "image_list": [
             "/9039696130D37C97A001433686942F6C.jpg",
@@ -866,21 +855,21 @@
                 "values": ["HOTAS-Joystick"],
                 "valuesDisplayOrder": [6]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 356,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1286510656,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">HOTAS-Joystick for PC</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">separater Schubregler</span> </li><li><span style=\"white-space:nowrap;\">55 Tasten, </span> <span style=\"white-space:nowrap;\">8 Kippschalter, 2 Coolie-Hats, 1 Drehregler</span> </li><li><span>getrennter Schubregler, Hall-Effect Sensoren, Vollmetall-Replika</span> </li></ul>",
+        "popularity": 13
     },
     {
         "name": "Razer Blade 14 14\"QHD AMD R9-5900HX RTX 3080 16GB RAM 1TB SSD W10",
-        "manufacturer": "Razer",
-        "manufacturer_picture": "/media/images/manu/list/10844A5B53EC321A249EAADC9D0C4.jpg",
-        "price": 2484,
-        "category_list": [
-            "Laptops / Notebooks",
-            "Notebooks & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:18",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">35.6 cm (14.0\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  2560 x 1440, </span> <span style=\"white-space:nowrap;\">WideView, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HX 8x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3080 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 11,
         "image_single": "/9083294779C1ED545A5F4DEFBC251501.jpg",
         "image_list": [
             "/9083294779C1ED545A5F4DEFBC251501.jpg",
@@ -1072,21 +1061,21 @@
                 "values": ["AMD Ryzen™ 9", "Ryzen™ 9 5900HX"],
                 "valuesDisplayOrder": [0, 681]
             }
-        }
+        },
+        "manufacturer": "Razer",
+        "price": 2484,
+        "category_single": "Laptops / Notebooks",
+        "category_list": [
+            "Laptops / Notebooks",
+            "Notebooks & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1621332228,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">35.6 cm (14.0\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  2560 x 1440, </span> <span style=\"white-space:nowrap;\">WideView, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HX 8x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3080 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 11
     },
     {
         "name": "Captiva Advanced Gaming I58-655 Tower-PC without OS",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 1080,
-        "category_list": [
-            "Desktop PCs",
-            "Desktop PCs & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 14:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 10,
         "image_single": "/90856691EF0BB42BF9E0418AB5B436ED.jpg",
         "image_list": [
             "/90856691EF0BB42BF9E0418AB5B436ED.jpg",
@@ -1230,21 +1219,21 @@
                 "values": ["NVIDIA®", "NVIDIA® GeForce RTX™ 3060 Ti"],
                 "valuesDisplayOrder": [0, 454]
             }
-        }
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 1080,
+        "category_single": "Desktop PCs",
+        "category_list": [
+            "Desktop PCs",
+            "Desktop PCs & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1643301883,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 10
     },
     {
         "name": "Thrustmaster TCA Quadrant Boeing Edition",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 108,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 12:45:28",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Throttle for PC, Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">17 Tasten</span> </li></ul>",
-        "popularity": 10,
         "image_single": "/90846238B9DEECF266414BDE8710EEB9.jpg",
         "image_list": [
             "/90846238B9DEECF266414BDE8710EEB9.jpg",
@@ -1271,21 +1260,21 @@
                 "values": ["Throttle"],
                 "valuesDisplayOrder": [13]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 108,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1632139998,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Throttle for PC, Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">17 Tasten</span> </li></ul>",
+        "popularity": 10
     },
     {
         "name": "Razer Blade 17 D17-7NT 17.3\"FHD i7-11800H RTX 3060 16GB RAM 1TB SSD W10H",
-        "manufacturer": "Razer",
-        "manufacturer_picture": "/media/images/manu/list/10844A5B53EC321A249EAADC9D0C4.jpg",
-        "price": 2052,
-        "category_list": [
-            "Laptops / Notebooks",
-            "Notebooks & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:23",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">43.9 cm (17.3\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">360Hz, WideView</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 9,
         "image_single": "/90839529751517635D7C4800B077DB03.jpg",
         "image_list": [
             "/90839529751517635D7C4800B077DB03.jpg",
@@ -1471,21 +1460,21 @@
                 "values": ["Intel Core i7", "Core™ i7-11800H"],
                 "valuesDisplayOrder": [0, 528]
             }
-        }
+        },
+        "manufacturer": "Razer",
+        "price": 2052,
+        "category_single": "Laptops / Notebooks",
+        "category_list": [
+            "Laptops / Notebooks",
+            "Notebooks & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1627545097,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">43.9 cm (17.3\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">360Hz, WideView</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 9
     },
     {
         "name": "Nintendo Switch v2 32GB Neon-Blau / Neon Rot",
-        "manufacturer": "Nintendo",
-        "manufacturer_picture": "/media/images/manu/list/102824BF3BF7A2D2A4404B1C360A0.jpg",
-        "price": 291,
-        "category_list": [
-            "Nintendo Switch Consoles",
-            "Nintendo Switch",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 09:45:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Console only mit 32 GB Memory</span> </li><li><span>with Joy-Con set (1x red / 1x blue), Switch console, Switch station Power Supply, HDMI cable, Joy-Con wrist bands, Joy-Con mount</span> </li></ul>",
-        "popularity": 9,
         "image_single": "/90778309BD52F2B0AF78475C89CBCAA7.jpg",
         "image_list": [
             "/90778309BD52F2B0AF78475C89CBCAA7.jpg",
@@ -1534,21 +1523,21 @@
                 "values": ["Console only"],
                 "valuesDisplayOrder": [1]
             }
-        }
+        },
+        "manufacturer": "Nintendo",
+        "price": 291,
+        "category_single": "Nintendo Switch Consoles",
+        "category_list": [
+            "Nintendo Switch Consoles",
+            "Nintendo Switch",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1566311806,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Console only mit 32 GB Memory</span> </li><li><span>with Joy-Con set (1x red / 1x blue), Switch console, Switch station Power Supply, HDMI cable, Joy-Con wrist bands, Joy-Con mount</span> </li></ul>",
+        "popularity": 9
     },
     {
         "name": "Thrustmaster T300 RS (PS4, PS3, PC) Kompatibel mit PS5-Spielen",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 280,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 05:15:11",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PlayStation 3, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Bremspedal</span> </li><li><span style=\"white-space:nowrap;\">13 Tasten, </span> <span style=\"white-space:nowrap;\">Schaltwippe am Lenkrad</span> </li><li><span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 9,
         "image_single": "/90563787FA53B3E52B924A4399843B7B.jpg",
         "image_list": [
             "/90563787FA53B3E52B924A4399843B7B.jpg",
@@ -1582,21 +1571,21 @@
                 "values": [true],
                 "valuesDisplayOrder": [2]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 280,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1407527383,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PlayStation 3, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Bremspedal</span> </li><li><span style=\"white-space:nowrap;\">13 Tasten, </span> <span style=\"white-space:nowrap;\">Schaltwippe am Lenkrad</span> </li><li><span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
+        "popularity": 9
     },
     {
         "name": "Gigabyte AERO 15 OLED KD-72DE624SR 15.6\"UHD i7-11800H RTX-3060 16GB RAM 1TB SSD W11P",
-        "manufacturer": "GIGABYTE",
-        "manufacturer_picture": "/media/images/manu/list/102017EBEB92C18494CB2AC130C56.jpg",
-        "price": 1404,
-        "category_list": [
-            "Laptops / Notebooks",
-            "Notebooks & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 09:30:25",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Pro</span> </li><li><span style=\"white-space:nowrap;\">Display:  3840 x 2160, </span> <span style=\"white-space:nowrap;\">OLED, </span> <span style=\"white-space:nowrap;\">glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 7,
         "image_single": "/90853303D604F93D308A402B8B27D6A2.jpg",
         "image_list": [
             "/90853303D604F93D308A402B8B27D6A2.jpg",
@@ -1821,21 +1810,21 @@
                 "values": ["Windows", "Windows 11 Pro"],
                 "valuesDisplayOrder": [0, 15]
             }
-        }
+        },
+        "manufacturer": "GIGABYTE",
+        "price": 1404,
+        "category_single": "Laptops / Notebooks",
+        "category_list": [
+            "Laptops / Notebooks",
+            "Notebooks & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1641749935,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Pro</span> </li><li><span style=\"white-space:nowrap;\">Display:  3840 x 2160, </span> <span style=\"white-space:nowrap;\">OLED, </span> <span style=\"white-space:nowrap;\">glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 7
     },
     {
         "name": "HP OMEN GT12-1401ng 4E4Q8EA Tower-PC with Windows 10",
-        "manufacturer": "HP",
-        "manufacturer_picture": "/media/images/manu/list/10049FC6259C14CA74EEE957E6F87.jpg",
-        "price": 1620,
-        "category_list": [
-            "Desktop PCs",
-            "Desktop PCs & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7,
         "image_single": "/908468906BEEC2C771C44BCE98F17DE4.jpg",
         "image_list": [
             "/908468906BEEC2C771C44BCE98F17DE4.jpg",
@@ -1995,21 +1984,21 @@
                 "values": ["AMD Ryzen™ 7", "Ryzen™ 7 5800X"],
                 "valuesDisplayOrder": [0, 205]
             }
-        }
+        },
+        "manufacturer": "HP",
+        "price": 1620,
+        "category_single": "Desktop PCs",
+        "category_list": [
+            "Desktop PCs",
+            "Desktop PCs & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1632999533,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
+        "popularity": 7
     },
     {
         "name": "Thrustmaster T80 Ferrari 488 GTB Edition (PS4) Kompatibel mit PS5-Spielen",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 89,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/16/2022 03:31:02",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">mit Schalthebel, mit Gas-/Bremspedal</span> </li><li><span style=\"white-space:nowrap;\">11 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 7,
         "image_single": "/90705413656868057A004D0E9C621827.jpg",
         "image_list": [
             "/90705413656868057A004D0E9C621827.jpg",
@@ -2041,21 +2030,21 @@
                 "values": [true],
                 "valuesDisplayOrder": [2]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 89,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1502174920,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">mit Schalthebel, mit Gas-/Bremspedal</span> </li><li><span style=\"white-space:nowrap;\">11 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
+        "popularity": 7
     },
     {
         "name": "MSI Alpha 15 B5EEK-077 15.6\"FHD R5-5600H RX-6600 16GB RAM 512GB SSD noOS",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 853,
-        "category_list": [
-            "Laptops / Notebooks",
-            "Notebooks & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:37",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">144Hz, WideView, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 5600H 6x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ RX 6600M 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">1x USB 2.0, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax)</span> </li></ul>",
-        "popularity": 6,
         "image_single": "/90852519705EB93706CA4FD7AE8BC2B5.jpg",
         "image_list": [
             "/90852519705EB93706CA4FD7AE8BC2B5.jpg",
@@ -2251,21 +2240,21 @@
                 "values": ["Wi-Fi 6E (802.11ax)"],
                 "valuesDisplayOrder": [5]
             }
-        }
-    },
-    {
-        "name": "GIGABYTE AORUS 15P KD-72DE224SH 15,6\" 240 Hz FHD i7-1180H RTX3060 16GB RAM 1TB SSD W10",
-        "manufacturer": "GIGABYTE",
-        "manufacturer_picture": "/media/images/manu/list/102017EBEB92C18494CB2AC130C56.jpg",
-        "price": 1080,
+        },
+        "manufacturer": "MSI",
+        "price": 853,
+        "category_single": "Laptops / Notebooks",
         "category_list": [
             "Laptops / Notebooks",
             "Notebooks & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 13:30:41",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">240Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 5,
+        "timestamp_created": 1640561512,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">144Hz, WideView, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 5600H 6x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ RX 6600M 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">1x USB 2.0, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax)</span> </li></ul>",
+        "popularity": 6
+    },
+    {
+        "name": "GIGABYTE AORUS 15P KD-72DE224SH 15,6\" 240 Hz FHD i7-1180H RTX3060 16GB RAM 1TB SSD W10",
         "image_single": "/90848216B05EE2FC1D4643A6979C55C5.jpg",
         "image_list": [
             "/90848216B05EE2FC1D4643A6979C55C5.jpg",
@@ -2476,21 +2465,21 @@
                 "values": ["Intel Core i7", "Core™ i7-11800H"],
                 "valuesDisplayOrder": [0, 524]
             }
-        }
+        },
+        "manufacturer": "GIGABYTE",
+        "price": 1080,
+        "category_single": "Laptops / Notebooks",
+        "category_list": [
+            "Laptops / Notebooks",
+            "Notebooks & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1634143307,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">240Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 5
     },
     {
         "name": "Thrustmaster eSwap X Pro Controller Kompatibel mit Xbox Series X|S und PC",
-        "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
-        "price": 108,
-        "category_list": [
-            "Joysticks, Gamepads, Wheels",
-            "Gaming Accessories & PC Games",
-            "Games & Entertainment"
-        ],
-        "publish_time": "04/17/2022 09:30:09",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Joystick (illuminated) for Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">Connection via Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">2 Analogsticks, 1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">19 Tasten</span> </li><li><span style=\"white-space:nowrap;\">Austauschbare Tasten, 3.5mm Headsetanschluss, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 5,
         "image_single": "/90820624DD5379E71B7B4409A01DBE97.jpg",
         "image_list": [
             "/90820624DD5379E71B7B4409A01DBE97.jpg",
@@ -2529,21 +2518,21 @@
                 "values": [true],
                 "valuesDisplayOrder": [2]
             }
-        }
+        },
+        "manufacturer": "Thrustmaster",
+        "price": 108,
+        "category_single": "Joysticks, Gamepads, Wheels",
+        "category_list": [
+            "Joysticks, Gamepads, Wheels",
+            "Gaming Accessories & PC Games",
+            "Games & Entertainment"
+        ],
+        "timestamp_created": 1605609881,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Joystick (illuminated) for Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">Connection via Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">2 Analogsticks, 1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">19 Tasten</span> </li><li><span style=\"white-space:nowrap;\">Austauschbare Tasten, 3.5mm Headsetanschluss, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
+        "popularity": 5
     },
     {
         "name": "Gigabyte AORUS 15P XD-73DE224SO 15.6\"FHD i7-11800H RTX-3070 16GB RAM 1TB SSD W11H",
-        "manufacturer": "GIGABYTE",
-        "manufacturer_picture": "/media/images/manu/list/102017EBEB92C18494CB2AC130C56.jpg",
-        "price": 1188,
-        "category_list": [
-            "Laptops / Notebooks",
-            "Notebooks & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/17/2022 12:45:42",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">240Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 4,
         "image_single": "/90859050CD23FE490CE74E778EDBC3AA.jpg",
         "image_list": [
             "/90859050CD23FE490CE74E778EDBC3AA.jpg",
@@ -2753,21 +2742,21 @@
                 "values": ["Windows", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 14]
             }
-        }
-    },
-    {
-        "name": "MSI GP66 Leopard 11UH-671 15.6\" FHD i7-11800H RTX3080 16GB RAM 1TB SSD noOS",
-        "manufacturer": "MSI",
-        "manufacturer_picture": "/media/images/manu/list/10276AAE6E0C7B37440039CD35047.jpg",
-        "price": 1512,
+        },
+        "manufacturer": "GIGABYTE",
+        "price": 1188,
+        "category_single": "Laptops / Notebooks",
         "category_list": [
             "Laptops / Notebooks",
             "Notebooks & Accessories",
             "Laptops, Tablets & PCs"
         ],
-        "publish_time": "04/17/2022 14:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">144Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3080 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax)</span> </li></ul>",
-        "popularity": 4,
+        "timestamp_created": 1645027262,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">240Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
+        "popularity": 4
+    },
+    {
+        "name": "MSI GP66 Leopard 11UH-671 15.6\" FHD i7-11800H RTX3080 16GB RAM 1TB SSD noOS",
         "image_single": "/90856649F82CAC05B3CA4D0A92F82F6F.jpg",
         "image_list": [
             "/90856649F82CAC05B3CA4D0A92F82F6F.jpg",
@@ -2961,38 +2950,38 @@
                 "values": ["Wi-Fi 6E (802.11ax)"],
                 "valuesDisplayOrder": [5]
             }
-        }
+        },
+        "manufacturer": "MSI",
+        "price": 1512,
+        "category_single": "Laptops / Notebooks",
+        "category_list": [
+            "Laptops / Notebooks",
+            "Notebooks & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1643283895,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">144Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3080 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax)</span> </li></ul>",
+        "popularity": 4
     },
     {
         "name": "Thrustmaster Gamepad eswap X Pro RED COLOR PACK AddOn",
+        "image_single": "",
+        "image_list": [],
+        "details": {},
         "manufacturer": "Thrustmaster",
-        "manufacturer_picture": "/media/images/manu/list/101834A00952D2FC44EA0B4676D8D.jpg",
         "price": 45,
+        "category_single": "Joysticks, Gamepads, Wheels",
         "category_list": [
             "Joysticks, Gamepads, Wheels",
             "Gaming Accessories & PC Games",
             "Games & Entertainment"
         ],
-        "publish_time": "04/17/2022 14:15:47",
+        "timestamp_created": 1648638060,
         "bulletpoints": "<ul></ul>",
-        "popularity": 3,
-        "image_single": "https://img.computerunivers.net",
-        "image_list": [],
-        "details": {}
+        "popularity": 3
     },
     {
         "name": "Captiva Ultimate Gaming R58-538 Tower-PC with Windows 11 Home",
-        "manufacturer": "Captiva GmbH",
-        "manufacturer_picture": "/media/images/manu/list/1299452EBAD46C5344BA98D1189A1.jpg",
-        "price": 3024,
-        "category_list": [
-            "Desktop PCs",
-            "Desktop PCs & Accessories",
-            "Laptops, Tablets & PCs"
-        ],
-        "publish_time": "04/16/2022 12:45:40",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 1,
         "image_single": "/908520190EB868B1E13E4840972276E5.jpg",
         "image_list": [
             "/908520190EB868B1E13E4840972276E5.jpg",
@@ -3139,6 +3128,17 @@
                 "values": ["mit Windows 11 Home", "Windows 11 Home"],
                 "valuesDisplayOrder": [0, 13]
             }
-        }
+        },
+        "manufacturer": "Captiva GmbH",
+        "price": 3024,
+        "category_single": "Desktop PCs",
+        "category_list": [
+            "Desktop PCs",
+            "Desktop PCs & Accessories",
+            "Laptops, Tablets & PCs"
+        ],
+        "timestamp_created": 1639647818,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
+        "popularity": 1
     }
 ]

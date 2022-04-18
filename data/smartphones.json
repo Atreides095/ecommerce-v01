@@ -1,17 +1,6 @@
 [
     {
         "name": "Samsung Galaxy XCover5 Enterprise Google Android Smartphone in black  with 64.0 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 205,
-        "category_list": [
-            "Smartphones & Cell Phones",
-            "Mobile Phones",
-            "Smartphones, Radio & GPS"
-        ],
-        "publish_time": "04/17/2022 12:45:16",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 13.5 cm (5.3\"), </span> <span style=\"white-space:nowrap;\">16.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.0 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified</span> </li></ul>",
-        "popularity": 19,
         "image_single": "/908286002381ACC90D054660AB75DCFA.jpg",
         "image_list": [
             "/908286002381ACC90D054660AB75DCFA.jpg",
@@ -158,21 +147,21 @@
                 "values": ["Exynos 850"],
                 "valuesDisplayOrder": [39]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy XCover Pro Enterprise Edition Google Android Smartphone in black  with 64.0 GB storage",
+        },
         "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 324,
+        "price": 205,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 11:30:10",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.0 cm (6.3\"), </span> <span style=\"white-space:nowrap;\">25.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4 x 2.30 GHz + 4x 1.70 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 17,
+        "timestamp_created": 1615885124,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 13.5 cm (5.3\"), </span> <span style=\"white-space:nowrap;\">16.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.0 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified</span> </li></ul>",
+        "popularity": 19
+    },
+    {
+        "name": "Samsung Galaxy XCover Pro Enterprise Edition Google Android Smartphone in black  with 64.0 GB storage",
         "image_single": "/907919970924D087E6864B3698611D79.jpg",
         "image_list": [
             "/907919970924D087E6864B3698611D79.jpg",
@@ -315,21 +304,21 @@
                 "values": ["Exynos 9 Octa 9611"],
                 "valuesDisplayOrder": [60]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE Apple iOS Smartphone in black  with 256 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 604,
+        },
+        "manufacturer": "Samsung",
+        "price": 324,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:44",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1579869758,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.0 cm (6.3\"), </span> <span style=\"white-space:nowrap;\">25.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4 x 2.30 GHz + 4x 1.70 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 17
+    },
+    {
+        "name": "Apple iPhone SE Apple iOS Smartphone in black  with 256 GB storage",
         "image_single": "/908606678A4699CCA6C043A1A3DA88E2.jpg",
         "image_list": [
             "/908606678A4699CCA6C043A1A3DA88E2.jpg",
@@ -466,21 +455,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy S20+ EU Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 540,
+        },
+        "manufacturer": "Apple",
+        "price": 604,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:44",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.73 GHz + 2x 2.50 GHz + 4x 2.00 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1646825643,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Samsung Galaxy S20+ EU Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/90793127082B9915EB8A47DB909FFDAA.jpg",
         "image_list": [
             "/90793127082B9915EB8A47DB909FFDAA.jpg",
@@ -626,21 +615,21 @@
                 ],
                 "valuesDisplayOrder": [0, 199]
             }
-        }
-    },
-    {
-        "name": "Realme GT Neo2 Dual-SIM Google Android Smartphone in blue  with 128 GB storage",
-        "manufacturer": "Realme",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 280,
+        },
+        "manufacturer": "Samsung",
+        "price": 540,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:34",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.7 cm (6.6\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.20 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1641905425,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.73 GHz + 2x 2.50 GHz + 4x 2.00 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Realme GT Neo2 Dual-SIM Google Android Smartphone in blue  with 128 GB storage",
         "image_single": "/908501985E5333EF58E941209C6198F9.jpg",
         "image_list": [
             "/908501985E5333EF58E941209C6198F9.jpg",
@@ -774,21 +763,21 @@
                 ],
                 "valuesDisplayOrder": [0, 236]
             }
-        }
-    },
-    {
-        "name": "Google Pixel 6 Google Android Smartphone in orange  with 128 GB storage",
-        "manufacturer": "Google",
-        "manufacturer_picture": "/media/images/manu/list/1402461AD6B7E3A8F460C9FFFAE3A.jpg",
-        "price": 594,
+        },
+        "manufacturer": "Realme",
+        "price": 280,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:31",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 12.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.2 cm (6.4\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.80 GHz + 2x 2.25 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>Hörgerätekompatibel (HAC-Empfänger), IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C,</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1637577665,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.7 cm (6.6\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.20 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Google Pixel 6 Google Android Smartphone in orange  with 128 GB storage",
         "image_single": "/908485864FB404CD644F4265925B828C.jpg",
         "image_list": [
             "/908485864FB404CD644F4265925B828C.jpg",
@@ -930,21 +919,21 @@
                 ],
                 "valuesDisplayOrder": [0, 205]
             }
-        }
-    },
-    {
-        "name": "Realme GT Master Edition 5G Dual-SIM Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Realme",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 226,
+        },
+        "manufacturer": "Google",
+        "price": 594,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:31",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1634735705,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 12.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.2 cm (6.4\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.80 GHz + 2x 2.25 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>Hörgerätekompatibel (HAC-Empfänger), IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C,</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Realme GT Master Edition 5G Dual-SIM Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/90848572E1AB6C277A354AB0AD2662FC.jpg",
         "image_list": [
             "/90848572E1AB6C277A354AB0AD2662FC.jpg",
@@ -1083,21 +1072,21 @@
                 "values": ["Snapdragon™ 778G"],
                 "valuesDisplayOrder": [258]
             }
-        }
-    },
-    {
-        "name": "Xiaomi 11T Pro 5G Dual-SIM EU Google Android Smartphone in blue  with 256 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 442,
+        },
+        "manufacturer": "Realme",
+        "price": 226,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:28",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1634724780,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Xiaomi 11T Pro 5G Dual-SIM EU Google Android Smartphone in blue  with 256 GB storage",
         "image_single": "/9084642309F71EECBBC042CCB4B042DD.jpg",
         "image_list": [
             "/9084642309F71EECBBC042CCB4B042DD.jpg",
@@ -1245,21 +1234,21 @@
                 "values": ["SnapDragon™ 888"],
                 "valuesDisplayOrder": [272]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 Pro Max MLLE3ZD/A Apple iOS Smartphone in blue  with 256 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1188,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 442,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1632307754,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Apple iPhone 13 Pro Max MLLE3ZD/A Apple iOS Smartphone in blue  with 256 GB storage",
         "image_single": "/9084581637D7EA6A3A7740B7810A3142.jpg",
         "image_list": [
             "/9084581637D7EA6A3A7740B7810A3142.jpg",
@@ -1400,21 +1389,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Caterpillar CAT S42 H+ Dual SIM Google Android Smartphone in black  with 32.0 GB storage",
-        "manufacturer": "Caterpillar",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 205,
+        },
+        "manufacturer": "Apple",
+        "price": 1188,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:38",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 14.0 cm (5.5\"), </span> <span style=\"white-space:nowrap;\">13.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 4x (1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">32.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1631701569,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Caterpillar CAT S42 H+ Dual SIM Google Android Smartphone in black  with 32.0 GB storage",
         "image_single": "/90844558EB28C40002CA4E35A9BCAFC5.jpg",
         "image_list": [
             "/90844558EB28C40002CA4E35A9BCAFC5.jpg",
@@ -1557,21 +1546,21 @@
                 "values": ["Helio A20"],
                 "valuesDisplayOrder": [62]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy A32 A326B 5G EU Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 237,
+        },
+        "manufacturer": "Caterpillar",
+        "price": 205,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 11:30:30",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.0 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1630481954,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 14.0 cm (5.5\"), </span> <span style=\"white-space:nowrap;\">13.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 4x (1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">32.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Samsung Galaxy A32 A326B 5G EU Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/90835533D37D17A293DC416D96FE931F.jpg",
         "image_list": [
             "/90835533D37D17A293DC416D96FE931F.jpg",
@@ -1704,21 +1693,21 @@
                 "values": ["MT6853"],
                 "valuesDisplayOrder": [174]
             }
-        }
-    },
-    {
-        "name": "Nokia X10 Google Android Smartphone in green  with 128 GB storage",
-        "manufacturer": "Nokia",
-        "manufacturer_picture": "/media/images/manu/list/11286B6ABB671E355443094F4C906.jpg",
-        "price": 205,
+        },
+        "manufacturer": "Samsung",
+        "price": 237,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 11:30:27",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.00 GHz + 6x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1625554733,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.0 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Nokia X10 Google Android Smartphone in green  with 128 GB storage",
         "image_single": "/90832705894A3E0C9B36404EAA4FA50D.jpg",
         "image_list": [
             "/90832705894A3E0C9B36404EAA4FA50D.jpg",
@@ -1863,21 +1852,21 @@
                 "values": ["Snapdragon™ 480"],
                 "valuesDisplayOrder": [234]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy S20 FE 5G EU Google Android Smartphone in blue  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 388,
+        },
+        "manufacturer": "Nokia",
+        "price": 205,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:48",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.6 cm (6.55\"), </span> <span style=\"white-space:nowrap;\">32.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.40 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1620819522,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.00 GHz + 6x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Samsung Galaxy S20 FE 5G EU Google Android Smartphone in blue  with 128 GB storage",
         "image_single": "/9083129117659D2A8ACE403ABAE69F7B.jpg",
         "image_list": [
             "/9083129117659D2A8ACE403ABAE69F7B.jpg",
@@ -2019,21 +2008,21 @@
                 ],
                 "valuesDisplayOrder": [0, 211]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 10 Pro Google Android Smartphone in blue  with 128 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 226,
+        },
+        "manufacturer": "Samsung",
+        "price": 388,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:30",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1619154983,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.6 cm (6.55\"), </span> <span style=\"white-space:nowrap;\">32.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.40 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro Google Android Smartphone in blue  with 128 GB storage",
         "image_single": "/90829390A97CBF0857E64B8D8B93FBDA.jpg",
         "image_list": [
             "/90829390A97CBF0857E64B8D8B93FBDA.jpg",
@@ -2177,21 +2166,21 @@
                 "values": ["Snapdragon™ 732G"],
                 "valuesDisplayOrder": [252]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone XR MH6P3ZD/A Apple iOS Smartphone in red  with 64.0 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 410,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 226,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 05:16:16",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2 x 2.49 GHz + 4x 1.59 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Qi compatible, Face recognition</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1616765388,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Apple iPhone XR MH6P3ZD/A Apple iOS Smartphone in red  with 64.0 GB storage",
         "image_single": "/9081855880043B11E7414A7285D2B016.jpg",
         "image_list": [
             "/9081855880043B11E7414A7285D2B016.jpg",
@@ -2324,21 +2313,21 @@
                 "values": ["2.49 GHz", "2 x 2.49 GHz + 4x 1.59 GHz"],
                 "valuesDisplayOrder": [0, 178]
             }
-        }
-    },
-    {
-        "name": "CAT S62 Pro Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Caterpillar",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 486,
+        },
+        "manufacturer": "Apple",
+        "price": 410,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 05:16:10",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 14.8 cm (5.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4x 2.20 Ghz + 4x 1.84 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1603183716,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2 x 2.49 GHz + 4x 1.59 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Qi compatible, Face recognition</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "CAT S62 Pro Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/9081379347EC03C9EF19478EA37C71D3.jpg",
         "image_list": [
             "/9081379347EC03C9EF19478EA37C71D3.jpg",
@@ -2481,21 +2470,21 @@
                 "values": ["2.20 Ghz", "4x 2.20 Ghz + 4x 1.84 GHz"],
                 "valuesDisplayOrder": [0, 129]
             }
-        }
-    },
-    {
-        "name": "CAT S52 Google Android Smartphone in black  with 64.0 GB storage",
+        },
         "manufacturer": "Caterpillar",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 291,
+        "price": 486,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:43",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 9.0 Pie™</span> </li><li><span style=\"white-space:nowrap;\">Display: 14.19 cm (5.6\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.30 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Fingerprint scanner</span> </li></ul>",
-        "popularity": 16,
+        "timestamp_created": 1598361480,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 14.8 cm (5.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4x 2.20 Ghz + 4x 1.84 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "CAT S52 Google Android Smartphone in black  with 64.0 GB storage",
         "image_single": "/907847257E957B138582498BA025845E.jpg",
         "image_list": [
             "/907847257E957B138582498BA025845E.jpg",
@@ -2635,21 +2624,21 @@
                 "values": ["Helio P35"],
                 "valuesDisplayOrder": [77]
             }
-        }
-    },
-    {
-        "name": "Samsung Z Flip3 5G Google Android Smartphone in beige  with 256 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 723,
+        },
+        "manufacturer": "Caterpillar",
+        "price": 291,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:31",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IPX8, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1572852563,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 9.0 Pie™</span> </li><li><span style=\"white-space:nowrap;\">Display: 14.19 cm (5.6\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.30 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Fingerprint scanner</span> </li></ul>",
+        "popularity": 16
+    },
+    {
+        "name": "Samsung Z Flip3 5G Google Android Smartphone in beige  with 256 GB storage",
         "image_single": "/908483165B871B1E58514535AA087620.jpg",
         "image_list": [
             "/908483165B871B1E58514535AA087620.jpg",
@@ -2821,21 +2810,21 @@
                 "values": ["2640 x 1080"],
                 "valuesDisplayOrder": [565]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 10 Pro Google Android Smartphone in bronze  with 128 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 280,
+        },
+        "manufacturer": "Samsung",
+        "price": 723,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:48",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1634543713,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IPX8, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro Google Android Smartphone in bronze  with 128 GB storage",
         "image_single": "/9082938966CC76244F2F45CB8F4C1CDE.jpg",
         "image_list": [
             "/9082938966CC76244F2F45CB8F4C1CDE.jpg",
@@ -2979,21 +2968,21 @@
                 "values": ["Snapdragon™ 732G"],
                 "valuesDisplayOrder": [252]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 10 Pro Google Android Smartphone in blue  with 64.0 GB storage",
+        },
         "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 237,
+        "price": 280,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:48",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1616764557,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 Pro Google Android Smartphone in blue  with 64.0 GB storage",
         "image_single": "/90829387A41309CC608545A39C61727C.jpg",
         "image_list": [
             "/90829387A41309CC608545A39C61727C.jpg",
@@ -3133,21 +3122,21 @@
                 "values": ["Snapdragon™ 732G"],
                 "valuesDisplayOrder": [252]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 12 Apple iOS Smartphone in white  with 256 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 766,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 237,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:47",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1616764446,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Apple iPhone 12 Apple iOS Smartphone in white  with 256 GB storage",
         "image_single": "/9081821353B043C23F384E4D91D301A0.jpg",
         "image_list": [
             "/9081821353B043C23F384E4D91D301A0.jpg",
@@ -3285,21 +3274,21 @@
                 "values": ["3.10 GHz", "2x 3.10 GHz + 4x 1.80 GHz"],
                 "valuesDisplayOrder": [0, 232]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Mi 10T Lite 5G EU Google Android Smartphone in blue  with 64.0 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 270,
+        },
+        "manufacturer": "Apple",
+        "price": 766,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:15:27",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.20 GHz + 6x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1602679418,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Xiaomi Mi 10T Lite 5G EU Google Android Smartphone in blue  with 64.0 GB storage",
         "image_single": "/908174993CE6834FEDCD4CAEBD80F296.jpg",
         "image_list": [
             "/908174993CE6834FEDCD4CAEBD80F296.jpg",
@@ -3433,21 +3422,21 @@
                 "values": ["Snapdragon™ 750G"],
                 "valuesDisplayOrder": [253]
             }
-        }
-    },
-    {
-        "name": "Emporia FLIP Folder in champagne",
-        "manufacturer": "emporia",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 38,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 270,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:15",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Folder</span> </li><li><span style=\"white-space:nowrap;\">Display: 5.6 cm (2.2\")</span> </li><li><span style=\"white-space:nowrap;\">GPRS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Hörgerätekompatibel (HAC-Empfänger)</span> </li></ul>",
-        "popularity": 15,
+        "timestamp_created": 1601895601,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.20 GHz + 6x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Emporia FLIP Folder in champagne",
         "image_single": "/90752184EA589A22B895420AB757B62A.jpg",
         "image_list": [
             "/90752184EA589A22B895420AB757B62A.jpg",
@@ -3528,21 +3517,21 @@
                 "values": ["Hörgerätekompatibel (HAC-Empfänger)"],
                 "valuesDisplayOrder": [5]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy A52s A528B 5G EU Google Android Smartphone in violet  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 302,
+        },
+        "manufacturer": "emporia",
+        "price": 38,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:46",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1552380326,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Folder</span> </li><li><span style=\"white-space:nowrap;\">Display: 5.6 cm (2.2\")</span> </li><li><span style=\"white-space:nowrap;\">GPRS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Hörgerätekompatibel (HAC-Empfänger)</span> </li></ul>",
+        "popularity": 15
+    },
+    {
+        "name": "Samsung Galaxy A52s A528B 5G EU Google Android Smartphone in violet  with 128 GB storage",
         "image_single": "/90858606D6619EADC8B24422A3240C16.jpg",
         "image_list": [
             "/90858606D6619EADC8B24422A3240C16.jpg",
@@ -3690,21 +3679,21 @@
                 "values": ["Snapdragon™ 778G"],
                 "valuesDisplayOrder": [258]
             }
-        }
-    },
-    {
-        "name": "Realme C11 (2021) Google Android Smartphone in gray  with 64.0 GB storage",
-        "manufacturer": "Realme",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 89,
+        },
+        "manufacturer": "Samsung",
+        "price": 302,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:51",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">8.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4x 1.60 GHz + 4x 1.25 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">WLAN a/b/g/n, </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b></span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1644420800,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 14
+    },
+    {
+        "name": "Realme C11 (2021) Google Android Smartphone in gray  with 64.0 GB storage",
         "image_single": "/90850762D157B51413014BFFAE0471D4.jpg",
         "image_list": [
             "/90850762D157B51413014BFFAE0471D4.jpg",
@@ -3826,21 +3815,21 @@
                 "values": ["1.60 GHz", "4x 1.60 GHz + 4x 1.25 GHz"],
                 "valuesDisplayOrder": [0, 65]
             }
-        }
-    },
-    {
-        "name": "Vivo X60 Pro 5G Dual-SIM Google Android Smartphone in black  with 256 GB storage",
-        "manufacturer": "vivo",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 626,
+        },
+        "manufacturer": "Realme",
+        "price": 89,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:18",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.6 cm (6.55\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.20 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1638201531,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">8.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4x 1.60 GHz + 4x 1.25 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">WLAN a/b/g/n, </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b></span> </li></ul>",
+        "popularity": 14
+    },
+    {
+        "name": "Vivo X60 Pro 5G Dual-SIM Google Android Smartphone in black  with 256 GB storage",
         "image_single": "/908333442FEC44FBC2734B23A5656D52.jpg",
         "image_list": [
             "/908333442FEC44FBC2734B23A5656D52.jpg",
@@ -3976,21 +3965,21 @@
                 "values": ["2376 x 1080"],
                 "valuesDisplayOrder": [535]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy S21 Ultra G998B 5G Dual-SIM Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 961,
+        },
+        "manufacturer": "vivo",
+        "price": 626,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:15:35",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.2 cm (6.8\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.90 GHz + 3x 2.80 GHz + 4x 2.20 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1622017158,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.6 cm (6.55\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.20 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 14
+    },
+    {
+        "name": "Samsung Galaxy S21 Ultra G998B 5G Dual-SIM Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/9082542388F59592F0C44DA4A088ADF0.jpg",
         "image_list": [
             "/9082542388F59592F0C44DA4A088ADF0.jpg",
@@ -4163,21 +4152,21 @@
                 ],
                 "valuesDisplayOrder": [0, 217]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE MHGR3ZD/A Apple iOS Smartphone in red  with 64.0 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 410,
+        },
+        "manufacturer": "Samsung",
+        "price": 961,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:15:29",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 2.65 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, Qi compatible, HDR</span> </li></ul>",
-        "popularity": 14,
+        "timestamp_created": 1610700379,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.2 cm (6.8\"), </span> <span style=\"white-space:nowrap;\">108.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.90 GHz + 3x 2.80 GHz + 4x 2.20 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 14
+    },
+    {
+        "name": "Apple iPhone SE MHGR3ZD/A Apple iOS Smartphone in red  with 64.0 GB storage",
         "image_single": "/908000274C74B9CABA674045BCE78A39.jpg",
         "image_list": [
             "/908000274C74B9CABA674045BCE78A39.jpg",
@@ -4312,21 +4301,21 @@
                 "values": ["2.65 GHz", "2x 2.65 GHz + 4x 1.80 GHz"],
                 "valuesDisplayOrder": [0, 191]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 11 Pro 5G Dual-Sim EU Google Android Smartphone in gray  with 128 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 291,
+        },
+        "manufacturer": "Apple",
+        "price": 410,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.20 Ghz + 6x 1.70 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, 120 Hz Display</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1603183692,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 2.65 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, Qi compatible, HDR</span> </li></ul>",
+        "popularity": 14
+    },
+    {
+        "name": "Xiaomi Redmi Note 11 Pro 5G Dual-Sim EU Google Android Smartphone in gray  with 128 GB storage",
         "image_single": "/908927589EAF2BA6F49F46EB841C8E16.jpg",
         "image_list": ["/908927589EAF2BA6F49F46EB841C8E16.jpg"],
         "details": {
@@ -4454,21 +4443,21 @@
                 "values": ["Snapdragon 695"],
                 "valuesDisplayOrder": [219]
             }
-        }
-    },
-    {
-        "name": "Realme GT Master Edition 5G Dual-SIM Google Android Smartphone in gray  with 256 GB storage",
-        "manufacturer": "Realme",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 259,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 291,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:45",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1648475398,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.20 Ghz + 6x 1.70 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, 120 Hz Display</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Realme GT Master Edition 5G Dual-SIM Google Android Smartphone in gray  with 256 GB storage",
         "image_single": "/908485731BDA8CFD87E441AF9C56071C.jpg",
         "image_list": [
             "/908485731BDA8CFD87E441AF9C56071C.jpg",
@@ -4596,21 +4585,21 @@
                 "values": ["Snapdragon™ 778G"],
                 "valuesDisplayOrder": [258]
             }
-        }
-    },
-    {
-        "name": "Realme GT Master Edition 5G Dual-SIM Google Android Smartphone in black  with 256 GB storage",
+        },
         "manufacturer": "Realme",
-        "manufacturer_picture": "/content/images/spacer_small.png",
         "price": 259,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:45",
+        "timestamp_created": 1647875847,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 13,
+        "popularity": 13
+    },
+    {
+        "name": "Realme GT Master Edition 5G Dual-SIM Google Android Smartphone in black  with 256 GB storage",
         "image_single": "/90848572E1AB6C277A354AB0AD2662FC.jpg",
         "image_list": [
             "/90848572E1AB6C277A354AB0AD2662FC.jpg",
@@ -4737,21 +4726,21 @@
                 "values": ["Snapdragon™ 778G"],
                 "valuesDisplayOrder": [258]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE Apple iOS Smartphone in white  with 256 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 604,
+        },
+        "manufacturer": "Realme",
+        "price": 259,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:44",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1647874613,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone SE Apple iOS Smartphone in white  with 256 GB storage",
         "image_single": "/908606684042F21AF2AA46FEB51F2B40.jpg",
         "image_list": [
             "/908606684042F21AF2AA46FEB51F2B40.jpg",
@@ -4891,21 +4880,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE Apple iOS Smartphone in black  with 64.0 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 453,
+        "price": 604,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:44",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1646825642,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone SE Apple iOS Smartphone in black  with 64.0 GB storage",
         "image_single": "/908606678A4699CCA6C043A1A3DA88E2.jpg",
         "image_list": [
             "/908606678A4699CCA6C043A1A3DA88E2.jpg",
@@ -5046,21 +5035,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy S21 G990B FE 5G EU Google Android Smartphone in gray  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 475,
+        },
+        "manufacturer": "Apple",
+        "price": 453,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 11:30:49",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 12.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.2 cm (6.4\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1646825640,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Samsung Galaxy S21 G990B FE 5G EU Google Android Smartphone in gray  with 128 GB storage",
         "image_single": "/90855282B70E0165B46E4EA594E76134.jpg",
         "image_list": [
             "/90855282B70E0165B46E4EA594E76134.jpg",
@@ -5201,21 +5190,21 @@
                 "values": ["SnapDragon™ 888"],
                 "valuesDisplayOrder": [272]
             }
-        }
-    },
-    {
-        "name": "Realme GT Neo2 Dual-SIM Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Realme",
-        "manufacturer_picture": "/content/images/spacer_small.png",
-        "price": 280,
+        },
+        "manufacturer": "Samsung",
+        "price": 475,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:34",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.7 cm (6.6\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.20 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1643021675,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 12.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.2 cm (6.4\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Realme GT Neo2 Dual-SIM Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/908501915A395451AB9449DC87297419.jpg",
         "image_list": [
             "/908501915A395451AB9449DC87297419.jpg",
@@ -5359,21 +5348,21 @@
                 ],
                 "valuesDisplayOrder": [0, 236]
             }
-        }
-    },
-    {
-        "name": "Google Pixel 6 Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Google",
-        "manufacturer_picture": "/media/images/manu/list/1402461AD6B7E3A8F460C9FFFAE3A.jpg",
-        "price": 561,
+        },
+        "manufacturer": "Realme",
+        "price": 280,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:31",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 12.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.2 cm (6.4\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.80 GHz + 2x 2.25 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>Hörgerätekompatibel (HAC-Empfänger), IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C,</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1637576848,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.7 cm (6.6\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.20 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Google Pixel 6 Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/9084858593825FCAA3434A7ABC27AE18.jpg",
         "image_list": [
             "/9084858593825FCAA3434A7ABC27AE18.jpg",
@@ -5521,21 +5510,21 @@
                 ],
                 "valuesDisplayOrder": [0, 205]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 MLPG3ZD/A Apple iOS Smartphone in white  with 128 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 788,
+        },
+        "manufacturer": "Google",
+        "price": 561,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 07:15:29",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1634735703,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 12.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.2 cm (6.4\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.80 GHz + 2x 2.25 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>Hörgerätekompatibel (HAC-Empfänger), IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C,</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone 13 MLPG3ZD/A Apple iOS Smartphone in white  with 128 GB storage",
         "image_single": "/908458314A7D0F3C7BBD46F38A97B6BA.jpg",
         "image_list": [
             "/908458314A7D0F3C7BBD46F38A97B6BA.jpg",
@@ -5679,21 +5668,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 Pro Max MLL63ZD/A Apple iOS Smartphone in gray  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1080,
+        "price": 788,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1631701570,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone 13 Pro Max MLL63ZD/A Apple iOS Smartphone in gray  with 128 GB storage",
         "image_single": "/908458134AD4777714A64E7CAE4164DA.jpg",
         "image_list": [
             "/908458134AD4777714A64E7CAE4164DA.jpg",
@@ -5830,21 +5819,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 Pro MLVP3ZD/A Apple iOS Smartphone in blue  with 256 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
         "price": 1080,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:38",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1631701571,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone 13 Pro MLVP3ZD/A Apple iOS Smartphone in blue  with 256 GB storage",
         "image_single": "/90845762ABF4926BFF24455B869ACB2A.jpg",
         "image_list": [
             "/90845762ABF4926BFF24455B869ACB2A.jpg",
@@ -5984,21 +5973,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 Pro MLVD3ZD/A Apple iOS Smartphone in blue  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 1015,
+        "price": 1080,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:38",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1631700926,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone 13 Pro MLVD3ZD/A Apple iOS Smartphone in blue  with 128 GB storage",
         "image_single": "/90845762ABF4926BFF24455B869ACB2A.jpg",
         "image_list": [
             "/90845762ABF4926BFF24455B869ACB2A.jpg",
@@ -6138,21 +6127,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy A52s 5G A528B Dual-SIM Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 280,
+        },
+        "manufacturer": "Apple",
+        "price": 1015,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 05:16:53",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1631700927,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Qi compatible, HDR, Face recognition, 120 Hz Display</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Samsung Galaxy A52s 5G A528B Dual-SIM Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/90843465C24C34AE779A4C618ABA82B5.jpg",
         "image_list": [
             "/90843465C24C34AE779A4C618ABA82B5.jpg",
@@ -6290,21 +6279,21 @@
                 "values": ["Snapdragon™ 778G"],
                 "valuesDisplayOrder": [258]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 10 5G Google Android Smartphone in gray  with 128 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 183,
+        },
+        "manufacturer": "Samsung",
+        "price": 280,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:33",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.20 GHz + 6x 2.00 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1629378536,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1 x 2.40 GHz + 3x 2.20 GHz + 4x 1.90 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Xiaomi Redmi Note 10 5G Google Android Smartphone in gray  with 128 GB storage",
         "image_single": "/90833908237CCE16816A4A78AF83F16F.jpg",
         "image_list": [
             "/90833908237CCE16816A4A78AF83F16F.jpg",
@@ -6452,21 +6441,21 @@
                 "values": ["Dimensity 700"],
                 "valuesDisplayOrder": [32]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy S20 FE 2021 G780G Google Android Smartphone in green  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 388,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 183,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 10:45:20",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">32.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.40 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1622638626,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">48 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.20 GHz + 6x 2.00 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Samsung Galaxy S20 FE 2021 G780G Google Android Smartphone in green  with 128 GB storage",
         "image_single": "/90832713B5DB65B4E6584B6E87786ADF.jpg",
         "image_list": [
             "/90832713B5DB65B4E6584B6E87786ADF.jpg",
@@ -6609,21 +6598,21 @@
                 ],
                 "valuesDisplayOrder": [0, 211]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy S21 G991 5G Dual Sim EU Google Android Smartphone in white  with 128 GB storage",
+        },
         "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 572,
+        "price": 388,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:30:13",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.7 cm (6.2\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.90 GHz + 3x 2.80 GHz + 4x 2.20 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1620821086,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">32.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.40 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Samsung Galaxy S21 G991 5G Dual Sim EU Google Android Smartphone in white  with 128 GB storage",
         "image_single": "/90830940B3F27CAFFAD7490081861EF0.jpg",
         "image_list": [
             "/90830940B3F27CAFFAD7490081861EF0.jpg",
@@ -6766,21 +6755,21 @@
                 ],
                 "valuesDisplayOrder": [0, 217]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 11 MHDF3ZD/A Apple iOS Smartphone in lilac  with 64.0 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 475,
+        },
+        "manufacturer": "Samsung",
+        "price": 572,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:30:09",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 2.65 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, Face recognition</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1618925869,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.7 cm (6.2\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.90 GHz + 3x 2.80 GHz + 4x 2.20 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP68 certified, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Apple iPhone 11 MHDF3ZD/A Apple iOS Smartphone in lilac  with 64.0 GB storage",
         "image_single": "/908185721BCE5C1026F94D50AE5CAB06.jpg",
         "image_list": [
             "/908185721BCE5C1026F94D50AE5CAB06.jpg",
@@ -6923,21 +6912,21 @@
                 "values": ["2.65 GHz", "2x 2.65 GHz + 4x 1.80 GHz"],
                 "valuesDisplayOrder": [0, 191]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 9 Pro Google Android Smartphone in gray  with 128 GB storage",
-        "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 194,
+        },
+        "manufacturer": "Apple",
+        "price": 475,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:15:24",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 13,
+        "timestamp_created": 1603183783,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 2.65 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, Face recognition</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Xiaomi Redmi Note 9 Pro Google Android Smartphone in gray  with 128 GB storage",
         "image_single": "/9081379774132A690442400C90DE45BA.jpg",
         "image_list": [
             "/9081379774132A690442400C90DE45BA.jpg",
@@ -7064,21 +7053,21 @@
                 "values": ["2.30 GHz", "2x 2.30 GHz + 6x 1.8 GHz"],
                 "valuesDisplayOrder": [0, 149]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Poco M4 Pro Dual-Sim Google Android Smartphone in black  with 256 GB storage",
+        },
         "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 248,
+        "price": 194,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 02:45:22",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.05 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1598361858,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 10.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.9 cm (6.67\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 13
+    },
+    {
+        "name": "Xiaomi Poco M4 Pro Dual-Sim Google Android Smartphone in black  with 256 GB storage",
         "image_single": "/9086095482CDF60192B0451D9113C658.jpg",
         "image_list": [
             "/9086095482CDF60192B0451D9113C658.jpg",
@@ -7206,21 +7195,21 @@
                 "values": ["Helio G96"],
                 "valuesDisplayOrder": [73]
             }
-        }
-    },
-    {
-        "name": "Xiaomi Redmi Note 11 LTE Dual-SIM EU Google Android Smartphone in gray  with 128 GB storage",
+        },
         "manufacturer": "Mi Global (Xiaomi)",
-        "manufacturer_picture": "/media/images/manu/list/14304BFA00002DB374B44B1E2C075.jpg",
-        "price": 172,
+        "price": 248,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:43",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4x 2.20 Ghz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1647263067,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2.05 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP53 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Xiaomi Redmi Note 11 LTE Dual-SIM EU Google Android Smartphone in gray  with 128 GB storage",
         "image_single": "/9085983054729E0E568A49C8A1D925DF.jpg",
         "image_list": [
             "/9085983054729E0E568A49C8A1D925DF.jpg",
@@ -7363,21 +7352,21 @@
                 "values": ["Snapdragon 680"],
                 "valuesDisplayOrder": [217]
             }
-        }
-    },
-    {
-        "name": "ASUS ROG Phone 5s ZS676KS Google Android Smartphone in black  with 512 GB storage",
-        "manufacturer": "Asus",
-        "manufacturer_picture": "/media/images/manu/list/101133FC904CE04AC4E28A4EAD791.jpg",
-        "price": 1036,
+        },
+        "manufacturer": "Mi Global (Xiaomi)",
+        "price": 172,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:30:30",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.2 cm (6.8\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.00 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">512 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1646049068,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.3 cm (6.44\"), </span> <span style=\"white-space:nowrap;\">50 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (4x 2.20 Ghz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "ASUS ROG Phone 5s ZS676KS Google Android Smartphone in black  with 512 GB storage",
         "image_single": "/90849926230749AFCEDD40DAA6863104.jpg",
         "image_list": [
             "/90849926230749AFCEDD40DAA6863104.jpg",
@@ -7520,21 +7509,21 @@
                 ],
                 "valuesDisplayOrder": [0, 227]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy A52 A525F Dual-SIM Enterprise Edition (DACH) Google Android Smartphone in black  with 128 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 259,
+        },
+        "manufacturer": "Asus",
+        "price": 1036,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:28",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1637077990,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.2 cm (6.8\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 3.00 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">512 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">Fingerprint scanner, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Samsung Galaxy A52 A525F Dual-SIM Enterprise Edition (DACH) Google Android Smartphone in black  with 128 GB storage",
         "image_single": "/908464390E89B621D11347ED894F2817.jpg",
         "image_list": [
             "/908464390E89B621D11347ED894F2817.jpg",
@@ -7679,21 +7668,21 @@
                 "values": ["2.30 GHz", "2x 2.30 GHz + 6x 1.8 GHz"],
                 "valuesDisplayOrder": [0, 149]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 mini (RED) MLK83ZD/A Apple iOS Smartphone in red  with 256 GB storage",
-        "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 723,
+        },
+        "manufacturer": "Samsung",
+        "price": 259,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 14:45:39",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 13.7 cm (5.4\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1632316626,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 16.5 cm (6.5\"), </span> <span style=\"white-space:nowrap;\">64.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (2x 2.30 GHz + 6x 1.8 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">microSD-Slot, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP67 certified, Fingerprint scanner, USB Type-C</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Apple iPhone 13 mini (RED) MLK83ZD/A Apple iOS Smartphone in red  with 256 GB storage",
         "image_single": "/90845802AA3F7282485740B0AF5DFCE5.jpg",
         "image_list": [
             "/90845802AA3F7282485740B0AF5DFCE5.jpg",
@@ -7835,21 +7824,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 12 Apple iOS Smartphone in violet  with 64.0 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 604,
+        "price": 723,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 09:45:50",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1631701573,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 15</span> </li><li><span style=\"white-space:nowrap;\">Display: 13.7 cm (5.4\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Apple iPhone 12 Apple iOS Smartphone in violet  with 64.0 GB storage",
         "image_single": "/9083133884CE5183FE7040B593E9FE96.jpg",
         "image_list": [
             "/9083133884CE5183FE7040B593E9FE96.jpg",
@@ -7978,21 +7967,21 @@
                 "values": ["3.10 GHz", "2x 3.10 GHz + 4x 1.80 GHz"],
                 "valuesDisplayOrder": [0, 232]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 12 mini Apple iOS Smartphone in white  with 64.0 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 561,
+        "price": 604,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 03:33:01",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 13.7 cm (5.4\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1619182006,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Apple iPhone 12 mini Apple iOS Smartphone in white  with 64.0 GB storage",
         "image_single": "/9081821353B043C23F384E4D91D301A0.jpg",
         "image_list": [
             "/9081821353B043C23F384E4D91D301A0.jpg",
@@ -8126,21 +8115,21 @@
                 "values": ["3.10 GHz", "2x 3.10 GHz + 4x 1.80 GHz"],
                 "valuesDisplayOrder": [0, 232]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 12 Apple iOS Smartphone in white  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 669,
+        "price": 561,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 05:16:15",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1602679432,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 13.7 cm (5.4\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">64.0 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Apple iPhone 12 Apple iOS Smartphone in white  with 128 GB storage",
         "image_single": "/90818218174DB45EC866407B9004EBA5.jpg",
         "image_list": [
             "/90818218174DB45EC866407B9004EBA5.jpg",
@@ -8277,21 +8266,21 @@
                 "values": ["3.10 GHz", "2x 3.10 GHz + 4x 1.80 GHz"],
                 "valuesDisplayOrder": [0, 232]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 11 Apple iOS Smartphone in black  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 561,
+        "price": 669,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 03:32:07",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 13</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
-        "popularity": 12,
+        "timestamp_created": 1602679413,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 14</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.10 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Apple iPhone 11 Apple iOS Smartphone in black  with 128 GB storage",
         "image_single": "/907807485938A8084DF2471A8911042E.jpg",
         "image_list": [
             "/907807485938A8084DF2471A8911042E.jpg",
@@ -8423,21 +8412,21 @@
                 "values": ["A13 Bionic 64bit"],
                 "valuesDisplayOrder": [12]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE Apple iOS Smartphone in red  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 496,
+        "price": 561,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 11:30:53",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
-        "popularity": 11,
+        "timestamp_created": 1568192286,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS 13</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">LTE, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
+        "popularity": 12
+    },
+    {
+        "name": "Apple iPhone SE Apple iOS Smartphone in red  with 128 GB storage",
         "image_single": "/9086066944FCDA256D154B5A81186F81.jpg",
         "image_list": [
             "/9086066944FCDA256D154B5A81186F81.jpg",
@@ -8573,21 +8562,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE Apple iOS Smartphone in white  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
         "price": 496,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:44",
+        "timestamp_created": 1646825643,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
-        "popularity": 11,
+        "popularity": 11
+    },
+    {
+        "name": "Apple iPhone SE Apple iOS Smartphone in white  with 128 GB storage",
         "image_single": "/908606684042F21AF2AA46FEB51F2B40.jpg",
         "image_list": [
             "/908606684042F21AF2AA46FEB51F2B40.jpg",
@@ -8719,21 +8708,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone SE Apple iOS Smartphone in black  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 507,
+        "price": 496,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:44",
+        "timestamp_created": 1646825644,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
-        "popularity": 11,
+        "popularity": 11
+    },
+    {
+        "name": "Apple iPhone SE Apple iOS Smartphone in black  with 128 GB storage",
         "image_single": "/908606678A4699CCA6C043A1A3DA88E2.jpg",
         "image_list": [
             "/908606678A4699CCA6C043A1A3DA88E2.jpg",
@@ -8865,21 +8854,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Apple iPhone 13 Apple iOS Smartphone in green  with 128 GB storage",
+        },
         "manufacturer": "Apple",
-        "manufacturer_picture": "/media/images/manu/list/10161B95091BE581548B0AA901C8F.jpg",
-        "price": 745,
+        "price": 507,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 12:45:44",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
-        "popularity": 11,
+        "timestamp_created": 1646825637,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 11.9 cm (4.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span>IP67 certified, Fingerprint scanner, Qi compatible, TrueTone display</span> </li></ul>",
+        "popularity": 11
+    },
+    {
+        "name": "Apple iPhone 13 Apple iOS Smartphone in green  with 128 GB storage",
         "image_single": "/9086065832FAEAC240CB4B42BF53BC57.jpg",
         "image_list": [
             "/9086065832FAEAC240CB4B42BF53BC57.jpg",
@@ -9028,21 +9017,21 @@
                 "values": ["3.42 GHz", "2x 3.42 GHz + 4x 2.01 GHz"],
                 "valuesDisplayOrder": [0, 240]
             }
-        }
-    },
-    {
-        "name": "Samsung Galaxy Z Flip3 5G F711B Dual-SIM EU Google Android Smartphone in beige  with 256 GB storage",
-        "manufacturer": "Samsung",
-        "manufacturer_picture": "/media/images/manu/list/100639A941389274B4BB4938DEECC.jpg",
-        "price": 669,
+        },
+        "manufacturer": "Apple",
+        "price": 745,
+        "category_single": "Smartphones & Cell Phones",
         "category_list": [
             "Smartphones & Cell Phones",
             "Mobile Phones",
             "Smartphones, Radio & GPS"
         ],
-        "publish_time": "04/17/2022 05:30:16",
-        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IPX8, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
-        "popularity": 11,
+        "timestamp_created": 1646825636,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Apple iOS</span> </li><li><span style=\"white-space:nowrap;\">Display: 15.5 cm (6.1\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 6x (2x 3.42 GHz + 4x 2.01 GHz)</span> </li><li><span style=\"white-space:nowrap;\">128 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IP68 certified, Qi compatible, HDR, Face recognition</span> </li></ul>",
+        "popularity": 11
+    },
+    {
+        "name": "Samsung Galaxy Z Flip3 5G F711B Dual-SIM EU Google Android Smartphone in beige  with 256 GB storage",
         "image_single": "/908431880E9E6BED261D4293A2B17063.jpg",
         "image_list": [
             "/908431880E9E6BED261D4293A2B17063.jpg",
@@ -9200,6 +9189,17 @@
                 "values": ["2640 x 1080"],
                 "valuesDisplayOrder": [565]
             }
-        }
+        },
+        "manufacturer": "Samsung",
+        "price": 669,
+        "category_single": "Smartphones & Cell Phones",
+        "category_list": [
+            "Smartphones & Cell Phones",
+            "Mobile Phones",
+            "Smartphones, Radio & GPS"
+        ],
+        "timestamp_created": 1645182984,
+        "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Smartphone, </span> <span style=\"white-space:nowrap;\">Google Android 11.0</span> </li><li><span style=\"white-space:nowrap;\">Display: 17.0 cm (6.7\"), </span> <span style=\"white-space:nowrap;\">12.0 MP camera</span> </li><li><span style=\"white-space:nowrap;\">CPU: 8x (1x 2.84 GHz + 3x 2.42 GHz + 4x 1.80 GHz)</span> </li><li><span style=\"white-space:nowrap;\">256 GB storage, </span> <span style=\"white-space:nowrap;\">Dual-Sim</span> </li><li><span style=\"white-space:nowrap;\">5G, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax), </span> <span style=\"white-space:nowrap;\">Bluetooth , </span> <span style=\"white-space:nowrap;\">NFC, </span> <span style=\"white-space:nowrap;\">GPS</span> </li><li><span style=\"white-space:nowrap;\"><b>no branding, no SIMlock</b>, </span> <span style=\"white-space:nowrap;\">IPX8, Fingerprint scanner, Qi compatible, USB Type-C, HDR</span> </li></ul>",
+        "popularity": 11
     }
 ]
