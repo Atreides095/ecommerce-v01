@@ -9,6 +9,8 @@ import {
 import React from 'react';
 import BottomNav from './bottomNav';
 import Header from './header';
+import Cart from './cart';
+import Wishlist from './wishlist';
 
 const Layout = ({ children }) => {
     const {
@@ -17,24 +19,26 @@ const Layout = ({ children }) => {
         onClose: onCloseShoppingCart,
     } = useDisclosure();
 
+    const {
+        isOpen: isOpenWishlist,
+        onOpen: onOpenWishlist,
+        onClose: onCloseWishlist,
+    } = useDisclosure();
+
     return (
         <React.Fragment>
             <Header />
             <Box px={4}>{children}</Box>
-            <BottomNav onOpenShoppingCart={onOpenShoppingCart} />
+            <BottomNav
+                onOpenShoppingCart={onOpenShoppingCart}
+                onOpenWishlist={onOpenWishlist}
+            />
 
             {/* Cart */}
-            <Drawer
-                isOpen={isOpenShoppingCart}
-                onClose={onCloseShoppingCart}
-                size="full"
-                direction="right"
-            >
-                {/* <DrawerOverlay /> */}
-                <DrawerContent>
-                    <DrawerCloseButton />
-                </DrawerContent>
-            </Drawer>
+            <Cart isOpen={isOpenShoppingCart} onClose={onCloseShoppingCart} />
+
+            {/* Wishlist */}
+            <Wishlist isOpen={isOpenWishlist} onClose={onCloseWishlist} />
         </React.Fragment>
     );
 };

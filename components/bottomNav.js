@@ -34,7 +34,7 @@ const NavButton = ({ icon, text, handler }) => {
     );
 };
 
-const BottomNav = ({ onOpenShoppingCart }) => {
+const BottomNav = ({ onOpenShoppingCart, onOpenWishlist }) => {
     const { isOpen, onToggle } = useDisclosure();
     return (
         <Flex
@@ -70,7 +70,11 @@ const BottomNav = ({ onOpenShoppingCart }) => {
                     icon={AiOutlineShoppingCart}
                     handler={onOpenShoppingCart}
                 />
-                <NavButton text="Wishlist" icon={AiOutlineHeart} />
+                <NavButton
+                    text="Wishlist"
+                    icon={AiOutlineHeart}
+                    handler={onOpenWishlist}
+                />
                 <NavButton text="User" icon={AiOutlineUser} />
             </ButtonGroup>
         </Flex>
