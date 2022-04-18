@@ -12,13 +12,20 @@ import {
     Button,
     SimpleGrid,
     AspectRatio,
+    Icon,
 } from '@chakra-ui/react';
 import {
     AiOutlineClose,
     AiOutlineShoppingCart,
     AiOutlineHeart,
     AiOutlineUser,
+    AiOutlineLaptop,
+    AiOutlineMobile,
+    AiOutlineVideoCamera,
 } from 'react-icons/ai';
+import { BsKeyboard } from 'react-icons/bs';
+import { IoGameControllerOutline } from 'react-icons/io5';
+import { GoDeviceDesktop } from 'react-icons/go';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import SearchBar from './searchBar';
 
@@ -26,7 +33,18 @@ const MobileCategoryBtn = ({ icon, text, to }) => {
     return (
         <AspectRatio ratio={1}>
             <NextLink href={to} passHref>
-                <Button as="a" variant="solid">
+                <Button
+                    as="a"
+                    variant="solid"
+                    d="flex"
+                    flexDir="column"
+                    whiteSpace="normal"
+                    textAlign="center"
+                    fontSize="xs"
+                    gap={2}
+                    color="gray.600"
+                >
+                    <Icon as={icon} w={16} h={16} />
                     {text}
                 </Button>
             </NextLink>
@@ -112,12 +130,36 @@ const Header = () => {
                     gap="4px"
                     p="4px"
                 >
-                    <MobileCategoryBtn text="Category" to="/category1" />
-                    <MobileCategoryBtn text="Category" to="/category1" />
-                    <MobileCategoryBtn text="Category" to="/category1" />
-                    <MobileCategoryBtn text="Category" to="/category1" />
-                    <MobileCategoryBtn text="Category" to="/category1" />
-                    <MobileCategoryBtn text="Category" to="/category1" />
+                    <MobileCategoryBtn
+                        text="Desktop Computers"
+                        icon={GoDeviceDesktop}
+                        to="/category1"
+                    />
+                    <MobileCategoryBtn
+                        text="Laptops"
+                        icon={AiOutlineLaptop}
+                        to="/category1"
+                    />
+                    <MobileCategoryBtn
+                        text="Smartphones"
+                        icon={AiOutlineMobile}
+                        to="/category1"
+                    />
+                    <MobileCategoryBtn
+                        text="Gaming"
+                        icon={IoGameControllerOutline}
+                        to="/category1"
+                    />
+                    <MobileCategoryBtn
+                        text="Peripherals"
+                        icon={BsKeyboard}
+                        to="/category1"
+                    />
+                    <MobileCategoryBtn
+                        text={'TV & Video'}
+                        icon={AiOutlineVideoCamera}
+                        to="/category1"
+                    />
                 </SimpleGrid>
             </Slide>
         </Flex>
