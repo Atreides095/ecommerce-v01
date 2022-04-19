@@ -4,6 +4,7 @@ import {
     DrawerCloseButton,
     DrawerContent,
     DrawerOverlay,
+    Stack,
     useDisclosure,
 } from '@chakra-ui/react';
 import React from 'react';
@@ -11,6 +12,7 @@ import BottomNav from './bottomNav';
 import Header from './header';
 import Cart from './cart';
 import Wishlist from './wishlist';
+import Head from 'next/head';
 
 const Layout = ({ children }) => {
     const {
@@ -28,7 +30,9 @@ const Layout = ({ children }) => {
     return (
         <React.Fragment>
             <Header />
-            <Box px={4}>{children}</Box>
+            <Box px={4} pb={24}>
+                {children}
+            </Box>
             <BottomNav
                 onOpenShoppingCart={onOpenShoppingCart}
                 onOpenWishlist={onOpenWishlist}

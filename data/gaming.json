@@ -41,7 +41,8 @@
         ],
         "timestamp_created": 1641552232,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Brems-/Kupplungspedal</span> </li><li><span style=\"white-space:nowrap;\">25 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Hall-Effect Sensoren, Display, Lederbezug, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 19
+        "popularity": 19,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster T-248 Kompatibel mit PS5, PS4 und PC",
@@ -91,7 +92,8 @@
         ],
         "timestamp_created": 1630052433,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Brems-/Kupplungspedal</span> </li><li><span style=\"white-space:nowrap;\">25 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Hall-Effect Sensoren, Display, Lederbezug, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 19
+        "popularity": 19,
+        "section": "Gaming"
     },
     {
         "name": "MSI MAG Infinite 11TG-1415AT Gaming PC Tower-PC with Windows 10",
@@ -266,7 +268,8 @@
         ],
         "timestamp_created": 1648632509,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11700F 8x 2.50 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">5x USB 2.0</span> </li></ul>",
-        "popularity": 15
+        "popularity": 15,
+        "section": "Gaming"
     },
     {
         "name": "Nintendo Switch (OLED-Modell) weiss",
@@ -294,7 +297,8 @@
         ],
         "timestamp_created": 1626448957,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Console only mit 64 GB Memory</span> </li><li><span>with Joy-Con Set (2x white), Switch console, Switch Station (withLAN) HDMI cable</span> </li></ul>",
-        "popularity": 15
+        "popularity": 15,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster T.Flight Hotas 4 (Playstation, PC)",
@@ -342,7 +346,8 @@
         ],
         "timestamp_created": 1502174920,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Controller for PC, Playstation 4</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">separater Schubregler</span> </li><li><span style=\"white-space:nowrap;\">12 Tasten, </span> <span style=\"white-space:nowrap;\">1 Coolie Hat</span> </li></ul>",
-        "popularity": 15
+        "popularity": 15,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster TH8A Shifter Add-On (PC, Xbox One,PS3 ,PS4)",
@@ -391,7 +396,8 @@
         ],
         "timestamp_created": 1408619627,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel Attachment for PC, PlayStation 3, Playstation 4, Xbox One</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">mit Schalthebel</span> </li><li><span>Hall-Effect Sensoren, Vollmetall-Replika, wechselbare Schaltplatten (Sequenziell / H-Schaltung)</span> </li></ul>",
-        "popularity": 14
+        "popularity": 14,
+        "section": "Gaming"
     },
     {
         "name": "ASUS ROG Flow X13 GV301QE-K6192T 13.4\" FHD R9 5900HS RTX 3050 Ti 16GB RAM 1TB SSD W10H",
@@ -606,7 +612,8 @@
         ],
         "timestamp_created": 1629907125,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">34.0 cm (13.4\") Convertible-Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1200, </span> <span style=\"white-space:nowrap;\">120Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare, </span> <span style=\"white-space:nowrap;\">Touch</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HS 8x 3.00 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3050 Ti 4.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 13
+        "popularity": 13,
+        "section": "Gaming"
     },
     {
         "name": "ASUS ROG Strix G15 Advantage Edition G513QY-HQ008W 15.6\" AMD R9-5900HX Radeon RX 6800M 16GB RAM 1TB SSD W11",
@@ -823,7 +830,8 @@
         ],
         "timestamp_created": 1629130984,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  2560 x 1440, </span> <span style=\"white-space:nowrap;\">165Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HX 8x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ RX 6800M 12.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 13
+        "popularity": 13,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster HOTAS Warthog (PC)",
@@ -866,7 +874,8 @@
         ],
         "timestamp_created": 1286510656,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">HOTAS-Joystick for PC</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">separater Schubregler</span> </li><li><span style=\"white-space:nowrap;\">55 Tasten, </span> <span style=\"white-space:nowrap;\">8 Kippschalter, 2 Coolie-Hats, 1 Drehregler</span> </li><li><span>getrennter Schubregler, Hall-Effect Sensoren, Vollmetall-Replika</span> </li></ul>",
-        "popularity": 13
+        "popularity": 13,
+        "section": "Gaming"
     },
     {
         "name": "Razer Blade 14 14\"QHD AMD R9-5900HX RTX 3080 16GB RAM 1TB SSD W10",
@@ -1072,7 +1081,8 @@
         ],
         "timestamp_created": 1621332228,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">35.6 cm (14.0\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  2560 x 1440, </span> <span style=\"white-space:nowrap;\">WideView, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900HX 8x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3080 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x USB 3.1 Gen2 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 11
+        "popularity": 11,
+        "section": "Gaming"
     },
     {
         "name": "Captiva Advanced Gaming I58-655 Tower-PC without OS",
@@ -1230,7 +1240,8 @@
         ],
         "timestamp_created": 1643301883,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i5-10400F 6x 2.90 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3060 Ti 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">6x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 10
+        "popularity": 10,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster TCA Quadrant Boeing Edition",
@@ -1271,7 +1282,8 @@
         ],
         "timestamp_created": 1632139998,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Throttle for PC, Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">17 Tasten</span> </li></ul>",
-        "popularity": 10
+        "popularity": 10,
+        "section": "Gaming"
     },
     {
         "name": "Razer Blade 17 D17-7NT 17.3\"FHD i7-11800H RTX 3060 16GB RAM 1TB SSD W10H",
@@ -1471,7 +1483,8 @@
         ],
         "timestamp_created": 1627545097,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">43.9 cm (17.3\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">360Hz, WideView</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">2x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 9
+        "popularity": 9,
+        "section": "Gaming"
     },
     {
         "name": "Nintendo Switch v2 32GB Neon-Blau / Neon Rot",
@@ -1534,7 +1547,8 @@
         ],
         "timestamp_created": 1566311806,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Console only mit 32 GB Memory</span> </li><li><span>with Joy-Con set (1x red / 1x blue), Switch console, Switch station Power Supply, HDMI cable, Joy-Con wrist bands, Joy-Con mount</span> </li></ul>",
-        "popularity": 9
+        "popularity": 9,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster T300 RS (PS4, PS3, PC) Kompatibel mit PS5-Spielen",
@@ -1582,7 +1596,8 @@
         ],
         "timestamp_created": 1407527383,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PlayStation 3, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">mit Gas-/Bremspedal</span> </li><li><span style=\"white-space:nowrap;\">13 Tasten, </span> <span style=\"white-space:nowrap;\">Schaltwippe am Lenkrad</span> </li><li><span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 9
+        "popularity": 9,
+        "section": "Gaming"
     },
     {
         "name": "Gigabyte AERO 15 OLED KD-72DE624SR 15.6\"UHD i7-11800H RTX-3060 16GB RAM 1TB SSD W11P",
@@ -1821,7 +1836,8 @@
         ],
         "timestamp_created": 1641749935,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Pro</span> </li><li><span style=\"white-space:nowrap;\">Display:  3840 x 2160, </span> <span style=\"white-space:nowrap;\">OLED, </span> <span style=\"white-space:nowrap;\">glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 7
+        "popularity": 7,
+        "section": "Gaming"
     },
     {
         "name": "HP OMEN GT12-1401ng 4E4Q8EA Tower-PC with Windows 10",
@@ -1995,7 +2011,8 @@
         ],
         "timestamp_created": 1632999533,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 10 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 7 5800X 8x 3.80 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">32 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">Wi-Fi 5 (802.11ac), </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">1x USB 3.1 Gen2, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">2x USB 2.0</span> </li></ul>",
-        "popularity": 7
+        "popularity": 7,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster T80 Ferrari 488 GTB Edition (PS4) Kompatibel mit PS5-Spielen",
@@ -2041,7 +2058,8 @@
         ],
         "timestamp_created": 1502174920,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Steering Wheel for PC, Playstation 4, PlayStation 5</span> </li><li><span style=\"white-space:nowrap;\">Connection via USB</span> </li><li><span style=\"white-space:nowrap;\">1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">mit Schalthebel, mit Gas-/Bremspedal</span> </li><li><span style=\"white-space:nowrap;\">11 Tasten, </span> <span style=\"white-space:nowrap;\">2 Schaltwippen</span> </li><li><span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 7
+        "popularity": 7,
+        "section": "Gaming"
     },
     {
         "name": "MSI Alpha 15 B5EEK-077 15.6\"FHD R5-5600H RX-6600 16GB RAM 512GB SSD noOS",
@@ -2251,7 +2269,8 @@
         ],
         "timestamp_created": 1640561512,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">144Hz, WideView, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 5 5600H 6x 3.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">AMD Radeon™ RX 6600M 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">512 GB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x USB 3.1 Gen1 Typ C, </span> <span style=\"white-space:nowrap;\">2x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">1x USB 2.0, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax)</span> </li></ul>",
-        "popularity": 6
+        "popularity": 6,
+        "section": "Gaming"
     },
     {
         "name": "GIGABYTE AORUS 15P KD-72DE224SH 15,6\" 240 Hz FHD i7-1180H RTX3060 16GB RAM 1TB SSD W10",
@@ -2476,7 +2495,8 @@
         ],
         "timestamp_created": 1634143307,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 10 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">240Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3060 6.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 5
+        "popularity": 5,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster eSwap X Pro Controller Kompatibel mit Xbox Series X|S und PC",
@@ -2529,7 +2549,8 @@
         ],
         "timestamp_created": 1605609881,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Joystick (illuminated) for Xbox One, Xbox Series X, Xbox Series S</span> </li><li><span style=\"white-space:nowrap;\">Connection via Bluetooth</span> </li><li><span style=\"white-space:nowrap;\">2 Analogsticks, 1 DPad (Steuerkreuz)</span> </li><li><span style=\"white-space:nowrap;\">19 Tasten</span> </li><li><span style=\"white-space:nowrap;\">Austauschbare Tasten, 3.5mm Headsetanschluss, </span> <span style=\"white-space:nowrap;\">Rumble / Vibration</span> </li></ul>",
-        "popularity": 5
+        "popularity": 5,
+        "section": "Gaming"
     },
     {
         "name": "Gigabyte AORUS 15P XD-73DE224SO 15.6\"FHD i7-11800H RTX-3070 16GB RAM 1TB SSD W11H",
@@ -2753,7 +2774,8 @@
         ],
         "timestamp_created": 1645027262,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">Windows 11 Home</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">240Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3070 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">1x Thunderbolt 4, </span> <span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6 (802.11ax)</span> </li></ul>",
-        "popularity": 4
+        "popularity": 4,
+        "section": "Gaming"
     },
     {
         "name": "MSI GP66 Leopard 11UH-671 15.6\" FHD i7-11800H RTX3080 16GB RAM 1TB SSD noOS",
@@ -2961,7 +2983,8 @@
         ],
         "timestamp_created": 1643283895,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">39.6 cm (15.6\") Notebook, </span> <span style=\"white-space:nowrap;\">without OS</span> </li><li><span style=\"white-space:nowrap;\">Display:  1920 x 1080, </span> <span style=\"white-space:nowrap;\">144Hz, IPS, </span> <span style=\"white-space:nowrap;\">non-glare</span> </li><li><span style=\"white-space:nowrap;\">Intel Core™ i7-11800H 8x 2.30 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce® RTX 3080 8.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">1 TB SSD</span> </li><li><span style=\"white-space:nowrap;\">3x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">Wi-Fi 6E (802.11ax)</span> </li></ul>",
-        "popularity": 4
+        "popularity": 4,
+        "section": "Gaming"
     },
     {
         "name": "Thrustmaster Gamepad eswap X Pro RED COLOR PACK AddOn",
@@ -2978,7 +3001,8 @@
         ],
         "timestamp_created": 1648638060,
         "bulletpoints": "<ul></ul>",
-        "popularity": 3
+        "popularity": 3,
+        "section": "Gaming"
     },
     {
         "name": "Captiva Ultimate Gaming R58-538 Tower-PC with Windows 11 Home",
@@ -3139,6 +3163,7 @@
         ],
         "timestamp_created": 1639647818,
         "bulletpoints": "<ul><li><span style=\"white-space:nowrap;\">Tower-PC, </span> <span style=\"white-space:nowrap;\">Windows 11 Home 64 Bit</span> </li><li><span style=\"white-space:nowrap;\">AMD Ryzen™ 9 5900X 12x 3.70 GHz</span> </li><li><span style=\"white-space:nowrap;\">NVIDIA® GeForce RTX™ 3090 24.0 GB</span> </li><li><span style=\"white-space:nowrap;\">16 GB RAM, </span> <span style=\"white-space:nowrap;\">480 GB SSD, </span> <span style=\"white-space:nowrap;\">1.0 TB HDD</span> </li><li><span style=\"white-space:nowrap;\">5x USB 3.1 Gen1, </span> <span style=\"white-space:nowrap;\">4x USB 2.0</span> </li></ul>",
-        "popularity": 1
+        "popularity": 1,
+        "section": "Gaming"
     }
 ]

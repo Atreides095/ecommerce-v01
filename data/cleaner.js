@@ -79,3 +79,52 @@ const files = [
 
 //     console.log('JSON file has been saved');
 // });
+
+// const data = require('./tvVideo.json');
+
+// const newData = data.map((item) => {
+//     return {
+//         ...item,
+//         section: 'TV & Video',
+//     };
+// });
+
+// fs.writeFile(`./data/tvVideo1.json`, JSON.stringify(newData), 'utf8', (err) => {
+//     if (err) {
+//         console.log(err);
+//         return console.log(err);
+//     }
+
+//     console.log('JSON file has been saved');
+// });
+
+const desktopData = require('./desktop.json');
+const gamingData = require('./gaming.json');
+const laptopsData = require('./laptops.json');
+const peripherieData = require('./peripherie.json');
+const smartphonesData = require('./smartphones.json');
+const tvVideoData = require('./tvVideo.json');
+
+const base = [];
+const allProducts = base.concat(
+    desktopData.slice(0, 30),
+    gamingData.slice(0, 30),
+    laptopsData.slice(0, 30),
+    peripherieData.slice(0, 30),
+    smartphonesData.slice(0, 30),
+    tvVideoData.slice(0, 30)
+);
+
+fs.writeFile(
+    './data/fullArray.json',
+    JSON.stringify(allProducts),
+    'utf8',
+    (err) => {
+        if (err) {
+            console.log(err.message);
+            return console.log(err.message);
+        }
+
+        console.log('JSON file has been created');
+    }
+);

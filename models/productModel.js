@@ -1,4 +1,5 @@
 import mongoose from 'mongoose';
+// const mongoose = require('mongoose');
 
 const productSchema = mongoose.Schema(
     {
@@ -16,7 +17,7 @@ const productSchema = mongoose.Schema(
         },
         image_single: {
             type: String,
-            required: true,
+            // required: true,
         },
         image_list: {
             type: Array,
@@ -25,12 +26,14 @@ const productSchema = mongoose.Schema(
         details: {
             type: Object,
         },
-        category: {
+        category_single: { type: String, required: true },
+        category_list: {
             type: Array,
             required: true,
         },
-        publish_time: { type: String },
-        bullet_points: { type: String },
+        timestamp_created: { type: Number },
+        bulletpoints: { type: String },
+        section: { type: String, required: true },
         popularity: { type: Number, required: true },
     },
     {
@@ -38,6 +41,7 @@ const productSchema = mongoose.Schema(
     }
 );
 
-const Product = mongoose.model('Product', productSchema);
+export default mongoose.models.Product ||
+    mongoose.model('Product', productSchema);
 
-export default Product;
+// module.exports = Product;
