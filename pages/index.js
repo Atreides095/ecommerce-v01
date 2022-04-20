@@ -5,7 +5,7 @@ import SectionWidget from '../components/sectionWidget';
 
 export default function Home({ popular, recent }) {
     return (
-        <VStack spacing={8} align="stretch">
+        <VStack spacing={12} align="stretch">
             <SectionWidget title={'POPULAR ITEMS'} list={popular.products} />
             <SectionWidget title={'NEW ITEMS'} list={recent.products} />
         </VStack>

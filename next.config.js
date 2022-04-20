@@ -7,6 +7,9 @@ const nextConfig = {
         SERVER_URI: 'http://localhost:3000',
         ENV: 'development',
     },
+    images: {
+        domains: ['img.computerunivers.net'],
+    },
 };
 
 module.exports = nextConfig;

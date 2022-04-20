@@ -5,9 +5,14 @@ const theme = extendTheme({
         body: 'Inter, sans-serif',
         heading: 'Inter, sans-serif',
     },
-    styles: {
-        global: {},
+    components: {
+        Button: {
+            baseStyle: {
+                _focus: { boxShadow: 'none' },
+            },
+        },
     },
+    styles: {},
 });
 
 export default theme;
