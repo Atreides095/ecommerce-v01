@@ -1,14 +1,16 @@
 import React from 'react';
 import axios from 'axios';
-import { Heading, Stack, Text, VStack } from '@chakra-ui/react';
+import Hero from '../components/hero';
+import { Flex, Heading, Stack, Text, VStack } from '@chakra-ui/react';
 import SectionWidget from '../components/sectionWidget';
 
 export default function Home({ popular, recent }) {
     return (
-        <VStack spacing={12} align="stretch">
+        <Flex direction="column" gap={12} align="center" width="100%">
+            <Hero src="/images/heroplaceholder.jpg" />
             <SectionWidget title={'POPULAR ITEMS'} list={popular.products} />
             <SectionWidget title={'NEW ITEMS'} list={recent.products} />
-        </VStack>
+        </Flex>
     );
 }
 

@@ -52,20 +52,43 @@ const MobileCategoryBtn = ({ icon, text, to }) => {
     );
 };
 
+const CategoryBtn = ({ icon, text, to }) => {
+    return (
+        // <AspectRatio ratio={1}>
+        <NextLink href={to} passHref flexShrink={0} flexGrow={1}>
+            <Button variant="link" gap={2}>
+                <Icon as={icon} w={8} h={8} />
+                {text}
+            </Button>
+        </NextLink>
+        // </AspectRatio>
+    );
+};
+
 const Header = () => {
     const { isOpen, onToggle } = useDisclosure();
 
     return (
-        <Flex direction="column" as="header">
+        <Box
+            direction="column"
+            as="header"
+            zIndex={999}
+            // position="sticky"
+            // top={0}
+            borderBottom="2px"
+            borderColor="gray.300"
+        >
             <Flex
+                w="100%"
                 zIndex="999"
                 px={4}
                 py={3}
                 h={20}
+                maxW="1400px"
+                mx="auto"
                 align="center"
-                bg="white"
-                borderBottom="2px"
-                borderColor="gray.300"
+                justify="space-between"
+                bg="whiteAlpha.900"
             >
                 {/* Store Logo */}
                 <NextLink href="/" passHref>
@@ -90,79 +113,131 @@ const Header = () => {
                     onClick={() => onToggle()}
                 />
                 {/* SearchBar (except mobile) */}
-                <Box d={['none', 'block']}>
+                <Box flexGrow={1} maxW="50ch" d={['none', 'block']}>
                     <SearchBar />
                 </Box>
 
                 {/* Navigation (except mobile) */}
-                <ButtonGroup size="md" bg="green" d={['none', 'flex']}>
+                <ButtonGroup size="md" d={['none', 'flex']}>
                     <IconButton
                         isRound
                         aria-label="shopping cart"
+                        variant="ghost"
+                        fontSize="2xl"
                         icon={<AiOutlineShoppingCart />}
                     />
                     <IconButton
                         isRound
+                        fontSize="2xl"
                         aria-label="wishlist"
+                        variant="ghost"
                         icon={<AiOutlineHeart />}
                     />
                     <IconButton
+                        fontSize="2xl"
                         isRound
                         aria-label="user"
+                        variant="ghost"
                         icon={<AiOutlineUser />}
                     />
                 </ButtonGroup>
             </Flex>
 
-            {/* Expanded categories (mobile version)*/}
-            <Slide
-                in={isOpen}
-                direction="top"
-                d={['grid', 'none']}
-                unmountOnExit
-            >
-                <SimpleGrid
-                    bg="gray.300"
-                    mt={20}
-                    zIndex="10"
-                    templateColumns="repeat(3, 1fr)"
-                    templateRows="repeat(auto, 1fr)"
-                    gap="4px"
-                    p="4px"
+            {/* Categories (except mobile) */}
+            <Box width="100%" overflow="auto">
+                <Flex
+                    direction="row"
+                    d={['none', 'flex']}
+                    py={2}
+                    w="max-content"
+                    overflowX="auto"
+                    // d="none"
+                    maxW="1400px"
+                    mx="auto"
+                    justify="center"
+                    gap={12}
+                    px={12}
                 >
-                    <MobileCategoryBtn
-                        text="Desktop Computers"
+                    <CategoryBtn
+                        text="Desktop"
                         icon={GoDeviceDesktop}
                         to="/category1"
                     />
-                    <MobileCategoryBtn
+                    <CategoryBtn
                         text="Laptops"
                         icon={AiOutlineLaptop}
                         to="/category1"
                     />
-                    <MobileCategoryBtn
+                    <CategoryBtn
                         text="Smartphones"
                         icon={AiOutlineMobile}
                         to="/category1"
                     />
-                    <MobileCategoryBtn
+                    <CategoryBtn
                         text="Gaming"
                         icon={IoGameControllerOutline}
                         to="/category1"
                     />
-                    <MobileCategoryBtn
+                    <CategoryBtn
                         text="Peripherals"
                         icon={BsKeyboard}
                         to="/category1"
                     />
-                    <MobileCategoryBtn
+                    <CategoryBtn
                         text={'TV & Video'}
                         icon={AiOutlineVideoCamera}
                         to="/category1"
                     />
-                </SimpleGrid>
-            </Slide>
-        </Flex>
+                </Flex>
+            </Box>
+
+            {/* Expanded categories (mobile version)*/}
+
+            <SimpleGrid
+                maxH={isOpen ? '320px' : '0'}
+                overflow="hidden"
+                transition="all 0.5s"
+                bg="gray.300"
+                zIndex="900"
+                templateColumns="repeat(3, 1fr)"
+                templateRows="repeat(auto, 1fr)"
+                gap="4px"
+                px="4px"
+                py={isOpen ? '4px' : 0}
+                d={['grid', 'none']}
+            >
+                <MobileCategoryBtn
+                    text="Desktop Computers"
+                    icon={GoDeviceDesktop}
+                    to="/category1"
+                />
+                <MobileCategoryBtn
+                    text="Laptops"
+                    icon={AiOutlineLaptop}
+                    to="/category1"
+                />
+                <MobileCategoryBtn
+                    text="Smartphones"
+                    icon={AiOutlineMobile}
+                    to="/category1"
+                />
+                <MobileCategoryBtn
+                    text="Gaming"
+                    icon={IoGameControllerOutline}
+                    to="/category1"
+                />
+                <MobileCategoryBtn
+                    text="Peripherals"
+                    icon={BsKeyboard}
+                    to="/category1"
+                />
+                <MobileCategoryBtn
+                    text={'TV & Video'}
+                    icon={AiOutlineVideoCamera}
+                    to="/category1"
+                />
+            </SimpleGrid>
+        </Box>
     );
 };
 

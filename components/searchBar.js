@@ -9,7 +9,7 @@ import { AiOutlineSearch } from 'react-icons/ai';
 
 const SearchBar = () => {
     return (
-        <InputGroup variant="outline">
+        <InputGroup variant="outline" border="2px" borderColor="gray.300">
             <Input placeholder="Search" bg="white" />
             <InputRightAddon w={16} p="0" border="0">
                 <IconButton

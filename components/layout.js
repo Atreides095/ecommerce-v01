@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
     return (
         <React.Fragment>
             <Header />
-            <Box px={4} pb={24}>
+            <Box px={4} pb={24} maxW="1400px" mx="auto">
                 {children}
             </Box>
             <BottomNav
